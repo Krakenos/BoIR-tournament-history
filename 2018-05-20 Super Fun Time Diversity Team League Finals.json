@@ -4,7 +4,10 @@
   "challonge": "https://challonge.com/SFT_Team_Finals",
   "date": "2018-05-20",
   "notability": "minor",
-  "organizer": ["PassionDrama", "TheMoonSage"],
+  "organizer": [
+    "PassionDrama",
+    "TheMoonSage"
+  ],
   "ruleset": "other",
   "description": "",
   "videos": [
@@ -29,5 +32,6 @@
       "loser": "1988 Chicago Cucks",
       "score": "2-1"
     }
-  ]
+  ],
+  "winner": "Prize pool enthousiast"
 }

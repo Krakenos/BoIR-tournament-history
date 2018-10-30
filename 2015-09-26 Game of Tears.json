@@ -4,7 +4,11 @@
   "challonge": "http://challonge.com/GameOfTears",
   "date": "2015-09-26",
   "notability": "minor",
-  "organizer": ["NuRelic", "Oh_My_Goth_", "ErBear_"],
+  "organizer": [
+    "NuRelic",
+    "Oh_My_Goth_",
+    "ErBear_"
+  ],
   "ruleset": "diversity",
   "description": "",
   "videos": [
@@ -161,5 +165,6 @@
       "loser": "NebularView",
       "score": "3-0"
     }
-  ]
+  ],
+  "winner": "Fisshy_"
 }

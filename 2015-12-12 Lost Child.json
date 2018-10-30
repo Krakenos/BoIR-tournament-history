@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/lostchild",
   "date": "2015-12-12",
   "notability": "minor",
-  "organizer": ["Xelnas"],
+  "organizer": [
+    "Xelnas"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -102,5 +104,6 @@
       "loser": "Cyber_1",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "BrainTM"
 }

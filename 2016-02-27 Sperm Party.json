@@ -1,10 +1,12 @@
-{
+x{
   "name": "Sperm Party",
   "challonge_id": "spermparty",
   "challonge": "http://challonge.com/spermparty",
   "date": "2016-02-27",
   "notability": "minor",
-  "organizer": ["Zamiell"],
+  "organizer": [
+    "Zamiell"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [],
@@ -70,5 +72,6 @@
       "loser": "Zamiell",
       "score": "3-0"
     }
-  ]
+  ],
+  "winner": "antizoubilamaka"
 }

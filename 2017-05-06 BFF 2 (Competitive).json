@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/BFF2COMP",
   "date": "2017-05-06",
   "notability": "minor",
-  "organizer": ["tyrannasauruslex"],
+  "organizer": [
+    "tyrannasauruslex"
+  ],
   "ruleset": "diversity",
   "description": "",
   "videos": [
@@ -93,5 +95,6 @@
       "loser": "antizoubilamaka",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "Shigan_"
 }

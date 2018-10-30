@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/boschamp",
   "date": "2015-10-24",
   "notability": "major",
-  "organizer": ["Diabetech"],
+  "organizer": [
+    "Diabetech"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "Hyphen_ated",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "Cyber_1"
 }

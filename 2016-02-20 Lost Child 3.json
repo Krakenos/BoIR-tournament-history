@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/LC3Thewildhaunt",
   "date": "2016-02-20",
   "notability": "minor",
-  "organizer": ["Xelnas"],
+  "organizer": [
+    "Xelnas"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "BrainTM",
       "score": "4-3"
     }
-  ]
+  ],
+  "winner": "ProblemsIRL"
 }

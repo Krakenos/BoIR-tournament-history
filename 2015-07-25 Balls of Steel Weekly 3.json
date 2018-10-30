@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/bosweekly3",
   "date": "2015-07-25",
   "notability": "minor",
-  "organizer": ["Diabetech"],
+  "organizer": [
+    "Diabetech"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "antizoubilamaka",
       "score": "3-1"
     }
-  ]
+  ],
+  "winner": "Hazard900"
 }

@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/BattleOfKings3",
   "date": "2017-05-13",
   "notability": "minor",
-  "organizer": ["Dea1h"],
+  "organizer": [
+    "Dea1h"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [],
@@ -46,5 +48,6 @@
       "score": "5-0",
       "description": "Exact score unknown, match not recorded."
     }
-  ]
+  ],
+  "winner": "Dea1h"
 }

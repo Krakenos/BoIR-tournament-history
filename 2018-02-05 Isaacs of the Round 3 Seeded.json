@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/IotR3_Seeded",
   "date": "2018-02-05",
   "notability": "major",
-  "organizer": ["xUnhingedMoose"],
+  "organizer": [
+    "xUnhingedMoose"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [],
@@ -214,5 +216,6 @@
       "loser": "thereisnofuture",
       "score": "3-0"
     }
-  ]
+  ],
+  "winner": "Dea1h"
 }

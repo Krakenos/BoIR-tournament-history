@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/lemonpartyfinals",
   "date": "2015-10-03",
   "notability": "major",
-  "organizer": ["Zamiell"],
+  "organizer": [
+    "Zamiell"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [
@@ -104,5 +106,6 @@
       "loser": "Hyphen_ated",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "ProblemsIRL"
 }
