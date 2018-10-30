@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/roidragequalifiers",
   "date": "2016-01-30",
   "notability": "minor",
-  "organizer": ["SSundee"],
+  "organizer": [
+    "SSundee"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [],
@@ -170,5 +172,6 @@
       "loser": "HauntedQuest",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "giraffefizzoid"
 }

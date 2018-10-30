@@ -4,7 +4,10 @@
   "challonge": "https://challonge.com/SFT_Team_Finals",
   "date": "2018-05-20",
   "notability": "minor",
-  "organizer": ["PassionDrama", "TheMoonSage"],
+  "organizer": [
+    "PassionDrama",
+    "TheMoonSage"
+  ],
   "ruleset": "other",
   "description": "",
   "videos": [
@@ -12,6 +15,28 @@
       "description": "Playlist with all the cast done by bmz_loop",
       "url": "https://www.twitch.tv/collections/dYrMjaDcIRXrCQ"
     }
+  ],
+  "squads": [
+    {
+      "name": "1988 Chicago Cucks",
+	  "participants": ["Zamiell", "Cyber_1", "SlashSP", "antizoubilamaka"]
+    },
+  
+    {
+      "name": "Prize pool enthousiast",
+	  "participants": ["ReidMercury__", "thereisnofuture", "Shigan_", "thisguyisbarry"]
+    },
+  
+    {
+      "name": "The Most Mooniest Passionate Misticle Team EVER",
+	  "participants": ["TheMoonSage", "Irgedenmist", "PassionDrama", "Thalen22"]
+    },
+  
+    {
+      "name": "The Guppypecats",
+	  "participants": ["MoncheronQuipet", "mgln", "AshD0wn", "GamonymousRC"]
+    }
+  
   ],
   "matchups": [
     {
@@ -29,5 +54,6 @@
       "loser": "1988 Chicago Cucks",
       "score": "2-1"
     }
-  ]
+  ],
+  "winner": "Prize pool enthousiast"
 }

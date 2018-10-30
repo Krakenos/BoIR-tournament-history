@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/bosweekly5",
   "date": "2015-08-08",
   "notability": "minor",
-  "organizer": ["Diabetech"],
+  "organizer": [
+    "Diabetech"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "NomsTaiters",
       "score": "3-0"
     }
-  ]
+  ],
+  "winner": "Hyphen_ated"
 }

@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/bfftournamentcomp",
   "date": "2017-02-26",
   "notability": "minor",
-  "organizer": ["tyrannasauruslex"],
+  "organizer": [
+    "tyrannasauruslex"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [
@@ -54,5 +56,6 @@
       "loser": "Zamiell",
       "score": "2-1"
     }
-  ]
+  ],
+  "winner": "Cyber_1"
 }

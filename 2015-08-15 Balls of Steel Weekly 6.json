@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/bosweekly6",
   "date": "2015-08-15",
   "notability": "minor",
-  "organizer": ["Diabetech"],
+  "organizer": [
+    "Diabetech"
+  ],
   "ruleset": "diversity",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "cranderveldt",
       "score": "3-1"
     }
-  ]
+  ],
+  "winner": "Black_Yuu"
 }

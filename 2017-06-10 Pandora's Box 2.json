@@ -4,7 +4,9 @@
   "challonge": "http://challonge.com/pandoradeux",
   "date": "2017-06-10",
   "notability": "minor",
-  "organizer": ["LaTaupeFR"],
+  "organizer": [
+    "LaTaupeFR"
+  ],
   "ruleset": "unseeded",
   "description": "",
   "videos": [],
@@ -84,5 +86,6 @@
       "loser": "Hikarichan73",
       "score": "3-0"
     }
-  ]
+  ],
+  "winner": "djforceps"
 }

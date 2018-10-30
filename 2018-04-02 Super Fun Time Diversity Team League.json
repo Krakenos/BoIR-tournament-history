@@ -4,7 +4,10 @@
   "challonge": "https://challonge.com/SFT_Team",
   "date": "2018-04-02",
   "notability": "minor",
-  "organizer": ["PassionDrama", "TheMoonSage"],
+  "organizer": [
+    "PassionDrama",
+    "TheMoonSage"
+  ],
   "ruleset": "other",
   "description": "",
   "videos": [
@@ -12,6 +15,58 @@
       "description": "Playlist with all the cast done by bmz_loop",
       "url": "https://www.twitch.tv/collections/dYrMjaDcIRXrCQ"
     }
+  ],
+  "squads": [
+    {
+      "name": "1988 Chicago Cucks",
+	  "participants": ["Zamiell", "Cyber_1", "SlashSP", "antizoubilamaka"]
+    },
+  
+    {
+       "name": "The LURKERS",
+	   "participants": ["CrafterLynx", "Hispa", "AdrYDN", "VicThor23"]
+    },
+  
+    {
+       "name": "Chattavo",
+	   "participants": ["leo_ze_tron", "Wakarana", "SergeBenamou31", "Lobsterosity"]
+    },
+  
+    {
+       "name": "Prize pool enthousiast",
+	   "participants": ["ReidMercury__", "thereisnofuture", "Shigan_", "thisguyisbarry"]
+    },
+  
+    {
+       "name": "The Streaking Edens",
+	   "participants": ["StoneAgeMarcus", "HauntedQuest", "Dea1h", "Ou_J"]
+    },
+  
+    {
+       "name": "XD",
+	   "participants": ["Thoday", "ceehe", "thundo22", "nicoluwu"]
+    },  
+  
+    {
+       "name": "F.B.F.A.C.H",
+	   "participants": ["Hikarichan73", "DapperKreig", "xUnhingedMoose", "RedstoneMenace"]
+    },
+  
+    {
+       "name": "Stuff 'n' Things",
+	   "participants": ["YuCaesar", "DKlaww", "NeNeSSquick", "klover48"]
+    },
+  
+    {
+       "name": "The Most Mooniest Passionate Misticle Team EVER",
+	   "participants": ["TheMoonSage", "Irgedenmist", "PassionDrama", "Thalen22"]
+    },
+  
+    {
+       "name": "The Guppypecats",
+	   "participants": ["MoncheronQuipet", "mgln", "AshD0wn", "GamonymousRC"]
+    }
+  
   ],
   "matchups": [
     {
