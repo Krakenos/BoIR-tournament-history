@@ -16,6 +16,28 @@
       "url": "https://www.twitch.tv/collections/dYrMjaDcIRXrCQ"
     }
   ],
+  "squads": [
+    {
+      "name": "1988 Chicago Cucks",
+	  "participants": ["Zamiell", "Cyber_1", "SlashSP", "antizoubilamaka"]
+    },
+  
+    {
+      "name": "Prize pool enthousiast",
+	  "participants": ["ReidMercury__", "thereisnofuture", "Shigan_", "thisguyisbarry"]
+    },
+  
+    {
+      "name": "The Most Mooniest Passionate Misticle Team EVER",
+	  "participants": ["TheMoonSage", "Irgedenmist", "PassionDrama", "Thalen22"]
+    },
+  
+    {
+      "name": "The Guppypecats",
+	  "participants": ["MoncheronQuipet", "mgln", "AshD0wn", "GamonymousRC"]
+    }
+  
+  ],
   "matchups": [
     {
       "winner": "1988 Chicago Cucks",

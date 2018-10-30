@@ -21,6 +21,32 @@
       "url": "https://www.twitch.tv/videos/76043658"
     }
   ],
+  "squads": [
+    {
+      "name": "Team Embarrassing.",
+	  "participants": ["Zamiell", "Krakenos"]
+    },
+  
+    {
+      "name": "Team Suck My Ass Vote Trump 2016",
+	  "participants": ["Thalen22", "antizoubilamaka"]
+    },
+	
+	{
+      "name": "Team Sleepless.",
+	  "participants": ["thisguyisbarry", "ItsScion"]
+    },
+  
+    {
+      "name": "Team Azazel to Hush strimmers",
+	  "participants": ["ceehe", "Ou_J"]
+    },
+	
+	{
+      "name": "Team 2 Noobs.",
+	  "participants": ["Dea1h", "Cyber_1"]
+    }
+  ],
   "matchups": [
     {
       "winner": "Team Embarrassing.",

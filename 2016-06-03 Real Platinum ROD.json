@@ -33,6 +33,68 @@
       "url": "https://www.youtube.com/watch?v=_ufGDxnDM5o"
     }
   ],
+  "squads": [
+    {
+      "name": "Pepp in our Step",
+	  "participants": ["Thalen22", "Peppicx", "SlashSP", "tODDlife"]
+    },
+  
+    {
+      "name": "The D4",
+	  "participants": ["Ou_J", "Rydyell", "AlwaysBoredKB21", "910dan"]
+    },
+	
+	{
+      "name": "lol, i'm fine with anything",
+	  "participants": ["910dan", "AlwaysBoredKB21", "Massiste2", "HauntedQuest"]
+    },
+  
+    {
+      "name": "e-LEMON_ators",
+	  "participants": ["Peppicx", "TheMoonSage", "ceehe", "thisguyisbarry"]
+    },
+	
+	{
+      "name": "Ram Rod",
+	  "participants": ["Fisshy_", "MagicDiner", "SlashSP", "Takumashii"]
+    },
+	
+	{
+      "name": "AssMunchers",
+	  "participants": ["Chronometrics", "Thalen22", "Augo48", "ItsScion"]
+    },
+	
+	{
+      "name": "Team poop",
+	  "participants": ["Waltimate", "Tanook_Leduc", "SlashSP", "antizoubilamaka"]
+    },
+  
+    {
+      "name": "Smot pokers",
+	  "participants": ["lexicalpedant", "Cyber_1", "Xelnas", "Zamiell"]
+    },
+	
+	{
+      "name": "Don't Hassel the Hoff",
+	  "participants": ["Peppicx", "MagicDiner", "HauntedQuest", "ceehe"]
+    },
+  
+    {
+      "name": "Dongs",
+	  "participants": ["InvaderTimStreams", "Hyphen_ated", "Krakenos", "DKlaww"]
+    },
+	
+	{
+      "name": "Parrots, parrots, parrots, just parrots",
+	  "participants": ["ItsScion", "Ou_J", "StoneAgeMarcus", "Dea1h"]
+    },
+	
+	{
+      "name": "Irish unification",
+	  "participants": ["HauntedQuest", "Scyther159", "thisguyisbarry", "Zamiell"]
+    }
+	
+  ],
   "matchups": [
     {
       "winner": "Pepp in our Step",
