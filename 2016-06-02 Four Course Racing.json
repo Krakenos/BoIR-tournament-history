@@ -4,7 +4,7 @@
   "challonge": "",
   "date": "2016-06-02",
   "notability": "minor",
-  "organizer": "bmz_loop",
+  "organizer": ["bmz_loop"],
   "ruleset": "team",
   "description": "Three matches with a unique 2v2 format",
   "videos": [
