@@ -1,14 +1,13 @@
 {
   "name": "Pageant Boy 4",
-  "challonge_id": "?",
-  "challonge": "?",
+  "challonge_id": "",
+  "challonge": "",
   "date": "2018-11-04",
   "notability": "minor",
   "organizer": ["StoneAgeMarcus"],
-  "ruleset": "?",
-  "description": "",
+  "ruleset": "other",
+  "description": "A weekend tournament with a twist -- builds are more important than speed. Marcus did not create a challonge bracket or save the VODs from this event.",
   "videos": [],
-  "matchups": [
-  ],
-  "winner": "?"
+  "matchups": [],
+  "winner": ""
 }
