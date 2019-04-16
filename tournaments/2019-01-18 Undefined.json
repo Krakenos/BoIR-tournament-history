@@ -1,0 +1,88 @@
+{
+  "name": "Undefined",
+  "challonge_id": "undefinedTBOI",
+  "challonge": "https://challonge.com/undefinedTBOI",
+  "date": "2019-01-18",
+  "notability": "minor",
+  "organizer": ["Gamonymous"],
+  "ruleset": "mixed",
+  "description": "",
+  "videos": ["https://www.twitch.tv/collections/qbP2NfKtexWtWg"],
+  "matchups": [
+    {
+      "winner": "Dea1h",
+      "loser": "Romanus",
+      "score": "3-1"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Krakenos",
+      "score": "3-2"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Hikarichan73",
+      "score": "3-0"
+    },
+    {
+      "winner": "Thereisnofuture",
+      "loser": "Olo70009",
+      "score": "3-1"
+    },
+    {
+      "winner": "ReidMercury_______",
+      "loser": "VoXeM",
+      "score": "3-1"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Mgln",
+      "score": "3-1"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Hispa",
+      "score": "3-0"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "AshD0wn",
+      "score": "3-2"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "MoucheronQuipet",
+      "score": "3-1"
+    },
+    {
+      "winner": "Thereisnofuture",
+      "loser": "Antizoubilamaka",
+      "score": "3-2"
+    },
+    {
+      "winner": "ReidMercury_______",
+      "loser": "CrafterLynx",
+      "score": "3-1"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "SlashSP",
+      "score": "3-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Thereisnofuture",
+      "score": "3-0"
+    },
+    {
+      "winner": "ReidMercury_______",
+      "loser": "Shigan",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ReidMercury_______",
+      "score": "7-6"
+    }
+  ]
+}

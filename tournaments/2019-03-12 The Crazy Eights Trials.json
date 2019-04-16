@@ -1,14 +1,19 @@
 {
   "name": "Undefined",
-  "challonge_id": "?",
-  "challonge": "?",
+  "challonge_id": "",
+  "challonge": "",
   "date": "2019-03-12",
   "notability": "minor",
   "organizer": ["antizoubilamakA"],
-  "ruleset": "?",
-  "description": "?",
-  "videos": [],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": ["https://www.twitch.tv/videos/391442647"],
   "matchups": [
+    {
+      "winner": "Dea1h",
+      "loser": ["Cyber_1", "thereisnofuture"],
+      "score": "9-4"
+    }
   ],
-  "winner": ""
+  "winner": "Dea1h"
 }
