@@ -1,19 +1,33 @@
 {
-  "name": "Undefined",
+  "name": "The Crazy Eights Trials",
   "challonge_id": "",
   "challonge": "",
   "date": "2019-03-12",
   "notability": "minor",
   "organizer": ["antizoubilamakA"],
-  "ruleset": "other",
+  "ruleset": "team",
   "description": "",
-  "videos": ["https://www.twitch.tv/videos/391442647"],
-  "matchups": [
+  "videos": [
     {
-      "winner": "Dea1h",
-      "loser": ["Cyber_1", "thereisnofuture"],
-      "score": "9-4"
+      "url": "https://www.twitch.tv/videos/391442647",
+      "description": ""
     }
   ],
-  "winner": "Dea1h"
+  "squads": [
+    {
+      "name": "Winner",
+      "participants": ["Zamiell", "Cyber_1", "SlashSP", "antizoubilamakA"]
+    },
+    {
+      "name": "Losers",
+      "participants": ["Cyber_1", "thereisnofuture"]
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Winner",
+      "loser": "Losers",
+      "score": "9-4"
+    }
+  ]
 }
