@@ -58,4 +58,5 @@ for path in sorted(glob.glob('tournaments/*.json')):
             if racer_without_underscores not in racers2:
                 racers2[racer_without_underscores] = racer
             if racers2[racer_without_underscores] != racer:
-                print(path + ' - ' + racer + ' has the incorrect amount of underscores. (It should be "' + racers2[racer_without_underscores] + '".)')
+                print(path + ' - ' + racer + ' has the incorrect amount of underscores. ' + 
+                      '(It should be "' + racers2[racer_without_underscores] + '".)')
