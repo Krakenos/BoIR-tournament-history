@@ -53,7 +53,7 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "Hispa",
       "score": "3-0",
       "ruleset": "diversity"
@@ -83,7 +83,7 @@
       "ruleset": "seeded"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "SlashSP",
       "score": "3-0",
       "ruleset": "seeded"
@@ -96,7 +96,7 @@
     },
     {
       "winner": "ReidMercury__",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "3-1",
       "ruleset": "seeded"
     },

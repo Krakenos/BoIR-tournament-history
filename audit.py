@@ -23,6 +23,7 @@ def checkKey(dict, key):
 
 # Looping through every file in the tournaments folder
 racers = {}
+racers2 = {}
 for path in sorted(glob.glob('tournaments/*.json')):
     # Load the file
     with open(path, 'r', encoding='utf-8', newline='\n') as f:
@@ -52,3 +53,9 @@ for path in sorted(glob.glob('tournaments/*.json')):
                 racers[racer] = True
             if racer not in racers and racer.lower() in racers:
                 print(path + ' - ' + racer + ' is styled incorrectly.')
+
+            racer_without_underscores = racer.replace('_', '')
+            if racer_without_underscores not in racers2:
+                racers2[racer_without_underscores] = racer
+            if racers2[racer_without_underscores] != racer:
+                print(path + ' - ' + racer + ' has the incorrect amount of underscores. (It should be "' + racers2[racer_without_underscores] + '".)')
