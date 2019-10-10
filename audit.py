@@ -47,17 +47,28 @@ for path in sorted(glob.glob('tournaments/*.json')):
         if not checkKey(tournament_json, field):
             print(path + ' - ' + field + ' does not exist!')
 
-    # Check for player duplicates (incorrect stylization, incorrect amount of underscores, etc.)
+    # Check for player duplicates
     for matchup in tournament_json['matchups']:
         for racer in [matchup['winner'], matchup['loser']]:
+            # Validate case stylization
             if racer not in racers and racer.lower() not in racers:
                 racers[racer] = True
             if racer not in racers and racer.lower() in racers:
                 print(path + ' - ' + racer + ' is styled incorrectly.')
 
+            # Validate the amount of underscores
             racer_without_underscores = racer.replace('_', '')
             if racer_without_underscores not in racers2:
                 racers2[racer_without_underscores] = racer
             if racers2[racer_without_underscores] != racer:
                 print(path + ' - ' + racer + ' has the incorrect amount of underscores. ' + 
                       '(It should be "' + racers2[racer_without_underscores] + '".)')
+
+            # Validate the first X characters
+            # (but skip team events since most teams will begin with "Team X")
+            if tournament_json['ruleset'] != 'team':
+                racer_prefix = racer[:5]
+                if racer_prefix not in racers3:
+                    racers3[racer_prefix] = racer
+                if racers3[racer_prefix] != racer:
+                    print(path + ' - ' + racer + ' is potentially a duplicate of "' + racers3[racer_prefix] + '".')

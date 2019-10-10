@@ -23,7 +23,7 @@
       "url": "https://www.twitch.tv/videos/179737495"
     },
     {
-      "description": "GamonymousRC vs Noro_caster",
+      "description": "Gamonymous__ vs Noro_caster",
       "url": "https://www.twitch.tv/videos/181516601"
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://www.twitch.tv/videos/179736958"
     },
     {
-      "description": "thereisnofuture vs GamonymousRC",
+      "description": "thereisnofuture vs Gamonymous__",
       "url": "https://www.twitch.tv/videos/182284416"
     },
     {
@@ -171,7 +171,7 @@
       "url": "https://www.twitch.tv/videos/183504819"
     },
     {
-      "description": "MrPopoche vs GamonymousRC",
+      "description": "MrPopoche vs Gamonymous__",
       "url": "https://www.twitch.tv/videos/183115351"
     },
     {
@@ -203,11 +203,11 @@
       "url": "https://www.twitch.tv/videos/184820426"
     },
     {
-      "description": "Brother Chen vs GamonymousRC (Part 1)",
+      "description": "Brother Chen vs Gamonymous__ (Part 1)",
       "url": "https://www.twitch.tv/videos/187071192"
     },
     {
-      "description": "Brother Chen vs GamonymousRC (Part 2)",
+      "description": "Brother Chen vs Gamonymous__ (Part 2)",
       "url": "https://www.twitch.tv/videos/187071367"
     },
     {
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "winner": "GamonymousRC",
+      "winner": "Gamonymous__",
       "loser": "Noro_Caster",
       "score": "3-2",
       "ruleset_per_round": [
@@ -355,11 +355,11 @@
           "ruleset": "seeded"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "diversity"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "seeded"
         },
         {
@@ -367,7 +367,7 @@
           "ruleset": "seeded"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "unseeded"
         }
       ]
@@ -622,11 +622,11 @@
     },
     {
       "winner": "thereisnofuture",
-      "loser": "GamonymousRC",
+      "loser": "Gamonymous__",
       "score": "3-1",
       "ruleset_per_round": [
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "diversity"
         },
         {
@@ -1141,7 +1141,7 @@
       ]
     },
     {
-      "winner": "GamonymousRC",
+      "winner": "Gamonymous__",
       "loser": "MrPopoche",
       "score": "3-2",
       "ruleset_per_round": [
@@ -1150,7 +1150,7 @@
           "ruleset": "diversity"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "seeded"
         },
         {
@@ -1158,11 +1158,11 @@
           "ruleset": "unseeded"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "diversity"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "diversity"
         }
       ]
@@ -1326,7 +1326,7 @@
     },
     {
       "winner": "Brother Chen",
-      "loser": "GamonymousRC",
+      "loser": "Gamonymous__",
       "score": "3-1",
       "ruleset_per_round": [
         {
@@ -1334,7 +1334,7 @@
           "ruleset": "seeded"
         },
         {
-          "winner": "GamonymousRC",
+          "winner": "Gamonymous__",
           "ruleset": "unseeded"
         },
         {
