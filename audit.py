@@ -14,6 +14,7 @@ json_fields = [
     'description',
     'videos',
     'matchups',
+    'winner',
 ]
 
 # Subroutines

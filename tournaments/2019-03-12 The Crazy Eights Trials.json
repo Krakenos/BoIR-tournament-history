@@ -7,34 +7,25 @@
   "organizer": [
     "antizoubilamakA"
   ],
-  "ruleset": "team",
-  "description": "",
+  "ruleset": "seeded",
+  "description": "The (unofficial) three-way finals of the Lynx Trials",
   "videos": [
     {
       "url": "https://www.twitch.tv/videos/391442647",
       "description": ""
     }
   ],
-  "squads": [
-    {
-      "name": "Winner",
-      "participants": [
-        "Dea1h"
-      ]
-    },
-    {
-      "name": "Losers",
-      "participants": [
-        "Cyber_1",
-        "thereisnofuture"
-      ]
-    }
-  ],
   "matchups": [
     {
-      "winner": "Winner",
-      "loser": "Losers",
+      "winner": "Dea1h",
+      "loser": "Cyber_1",
+      "score": "9-4"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "thereisnofuture",
       "score": "9-4"
     }
-  ]
+  ],
+  "winner": "Dea1h"
 }
