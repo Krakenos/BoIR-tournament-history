@@ -4,7 +4,10 @@
   "challonge": "",
   "date": "2016-06-03",
   "notability": "minor",
-  "organizer": ["deejumbles", "cranderveldt"],
+  "organizer": [
+    "deejumbles",
+    "cranderveldt"
+  ],
   "ruleset": "team",
   "description": "Team-based relay races",
   "videos": [
@@ -36,51 +39,111 @@
   "squads": [
     {
       "name": "Pepp in our Step",
-      "participants": ["Thalen22", "Peppicx", "SlashSP", "tODDlife"]
+      "participants": [
+        "Thalen22",
+        "Peppicx",
+        "SlashSP",
+        "tODDlife"
+      ]
     },
     {
       "name": "The D4",
-      "participants": ["Ou_J", "Rydyell", "AlwaysBoredKB21", "910dan"]
+      "participants": [
+        "Ou_J",
+        "Rydyell",
+        "AlwaysBoredKB21",
+        "910dan"
+      ]
     },
     {
       "name": "lol, i'm fine with anything",
-      "participants": ["910dan", "AlwaysBoredKB21", "Massiste2", "HauntedQuest"]
+      "participants": [
+        "910dan",
+        "AlwaysBoredKB21",
+        "Massiste2",
+        "HauntedQuest"
+      ]
     },
     {
       "name": "e-LEMON_ators",
-      "participants": ["Peppicx", "TheMoonSage", "ceehe", "thisguyisbarry"]
+      "participants": [
+        "Peppicx",
+        "TheMoonSage",
+        "ceehe",
+        "thisguyisbarry"
+      ]
     },
     {
       "name": "Ram Rod",
-      "participants": ["Fisshy_", "MagicDiner", "SlashSP", "Takumashii"]
+      "participants": [
+        "Fisshy_",
+        "MagicDiner",
+        "SlashSP",
+        "Takumashii"
+      ]
     },
     {
       "name": "AssMunchers",
-      "participants": ["Chronometrics", "Thalen22", "Augo48", "ItsScion"]
+      "participants": [
+        "Chronometrics",
+        "Thalen22",
+        "Augo48",
+        "ItsScion"
+      ]
     },
     {
       "name": "Team poop",
-      "participants": ["Waltimate", "Tanook_Leduc", "SlashSP", "antizoubilamakA"]
+      "participants": [
+        "Waltimate",
+        "Tanook_Leduc",
+        "SlashSP",
+        "antizoubilamakA"
+      ]
     },
     {
       "name": "Smot pokers",
-      "participants": ["lexicalpedant", "Cyber_1", "Xelnas", "Zamiell"]
+      "participants": [
+        "lexicalpedant",
+        "Cyber_1",
+        "Xelnas",
+        "Zamiell"
+      ]
     },
     {
       "name": "Don't Hassel the Hoff",
-      "participants": ["Peppicx", "MagicDiner", "HauntedQuest", "ceehe"]
+      "participants": [
+        "Peppicx",
+        "MagicDiner",
+        "HauntedQuest",
+        "ceehe"
+      ]
     },
     {
       "name": "Dongs",
-      "participants": ["InvaderTimStreams", "Hyphen_ated", "Krakenos", "DKlaww"]
+      "participants": [
+        "InvaderTimStreams",
+        "Hyphen_ated",
+        "Krakenos",
+        "DKlaww"
+      ]
     },
     {
       "name": "Parrots, parrots, parrots, just parrots",
-      "participants": ["ItsScion", "Ou_J", "StoneAgeMarcus", "Dea1h"]
+      "participants": [
+        "ItsScion",
+        "Ou_J",
+        "StoneAgeMarcus",
+        "Dea1h"
+      ]
     },
     {
       "name": "Irish unification",
-      "participants": ["HauntedQuest", "Scyther159", "thisguyisbarry", "Zamiell"]
+      "participants": [
+        "HauntedQuest",
+        "Scyther159",
+        "thisguyisbarry",
+        "Zamiell"
+      ]
     }
   ],
   "matchups": [

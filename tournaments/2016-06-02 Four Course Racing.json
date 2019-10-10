@@ -4,7 +4,9 @@
   "challonge": "",
   "date": "2016-06-02",
   "notability": "minor",
-  "organizer": ["bmz_loop"],
+  "organizer": [
+    "bmz_loop"
+  ],
   "ruleset": "team",
   "description": "Three matches with a unique 2v2 format",
   "videos": [
@@ -24,23 +26,38 @@
   "squads": [
     {
       "name": "Team Embarrassing.",
-      "participants": ["Zamiell", "Krakenos"]
+      "participants": [
+        "Zamiell",
+        "Krakenos"
+      ]
     },
     {
       "name": "Team Suck My Ass Vote Trump 2016",
-      "participants": ["Thalen22", "antizoubilamakA"]
+      "participants": [
+        "Thalen22",
+        "antizoubilamakA"
+      ]
     },
     {
       "name": "Team Sleepless",
-      "participants": ["thisguyisbarry", "ItsScion"]
+      "participants": [
+        "thisguyisbarry",
+        "ItsScion"
+      ]
     },
     {
       "name": "Team Azazel to Hush strimmers",
-      "participants": ["ceehe", "Ou_J"]
+      "participants": [
+        "ceehe",
+        "Ou_J"
+      ]
     },
     {
       "name": "Team 2 Noobs",
-      "participants": ["Dea1h", "Cyber_1"]
+      "participants": [
+        "Dea1h",
+        "Cyber_1"
+      ]
     }
   ],
   "matchups": [

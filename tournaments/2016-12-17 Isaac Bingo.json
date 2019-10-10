@@ -4,7 +4,10 @@
   "challonge": "",
   "date": "2016-12-17",
   "notability": "minor",
-  "organizer": ["deejumbles", "cranderveldt"],
+  "organizer": [
+    "deejumbles",
+    "cranderveldt"
+  ],
   "ruleset": "team",
   "description": "A team based Isaac Bingo match",
   "videos": [
@@ -16,11 +19,17 @@
   "squads": [
     {
       "name": "SlashSP & Zamiell",
-      "participants": ["SlashSP", "Zamiell"]
+      "participants": [
+        "SlashSP",
+        "Zamiell"
+      ]
     },
     {
       "name": "Krakenos & Thalen22",
-      "participants": ["Krakenos", "Thalen22"]
+      "participants": [
+        "Krakenos",
+        "Thalen22"
+      ]
     }
   ],
   "matchups": [

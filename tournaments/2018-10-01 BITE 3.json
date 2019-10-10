@@ -4,7 +4,9 @@
   "challonge": "https://challonge.com/r6jn478g",
   "date": "2018-10-01",
   "notability": "minor",
-  "organizer": ["Shigan_"],
+  "organizer": [
+    "Shigan_"
+  ],
   "ruleset": "mixed",
   "description": "",
   "videos": [],
@@ -399,5 +401,6 @@
       "loser": "thereisnofuture",
       "score": "3-2"
     }
-  ]
+  ],
+  "winner": "Cyber_1"
 }

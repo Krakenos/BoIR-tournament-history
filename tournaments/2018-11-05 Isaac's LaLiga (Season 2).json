@@ -4,7 +4,9 @@
   "challonge": "https://challonge.com/isaaclaliga2",
   "date": "2018-11-05",
   "notability": "minor",
-  "organizer": ["Hispa"],
+  "organizer": [
+    "Hispa"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [],

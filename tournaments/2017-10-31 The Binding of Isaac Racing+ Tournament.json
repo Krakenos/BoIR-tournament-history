@@ -4,7 +4,9 @@
   "challonge": "http://tboi.challonge.com/2017",
   "date": "2017-10-31",
   "notability": "minor",
-  "organizer": ["Xelnas"],
+  "organizer": [
+    "Xelnas"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [

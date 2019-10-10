@@ -4,7 +4,9 @@
   "challonge": "",
   "date": "2019-03-12",
   "notability": "minor",
-  "organizer": ["antizoubilamakA"],
+  "organizer": [
+    "antizoubilamakA"
+  ],
   "ruleset": "team",
   "description": "",
   "videos": [
@@ -16,11 +18,16 @@
   "squads": [
     {
       "name": "Winner",
-      "participants": ["Dea1h"]
+      "participants": [
+        "Dea1h"
+      ]
     },
     {
       "name": "Losers",
-      "participants": ["Cyber_1", "thereisnofuture"]
+      "participants": [
+        "Cyber_1",
+        "thereisnofuture"
+      ]
     }
   ],
   "matchups": [

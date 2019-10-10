@@ -4,14 +4,17 @@
   "challonge": "https://challonge.com/undefinedTBOI",
   "date": "2019-01-18",
   "notability": "minor",
-  "organizer": ["Gamonymous"],
+  "organizer": [
+    "Gamonymous"
+  ],
   "ruleset": "multiple",
   "description": "",
-  "videos": [{
-    "url":"https://www.twitch.tv/collections/qbP2NfKtexWtWg",
-    "description": ""
-  }
-    ],
+  "videos": [
+    {
+      "url": "https://www.twitch.tv/collections/qbP2NfKtexWtWg",
+      "description": ""
+    }
+  ],
   "matchups": [
     {
       "winner": "Dea1h",

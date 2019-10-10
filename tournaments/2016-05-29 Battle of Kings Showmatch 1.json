@@ -4,7 +4,9 @@
   "challonge": "",
   "date": "2016-05-29",
   "notability": "minor",
-  "organizer": ["Dea1h"],
+  "organizer": [
+    "Dea1h"
+  ],
   "ruleset": "seeded",
   "description": "",
   "videos": [
@@ -20,5 +22,5 @@
       "score": "7-6"
     }
   ],
-  "winner" : "Dea1h"
+  "winner": "Dea1h"
 }

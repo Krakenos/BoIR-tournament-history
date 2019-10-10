@@ -4,7 +4,10 @@
   "challonge": "https://challonge.com/SFT_Team_Finals",
   "date": "2018-05-20",
   "notability": "minor",
-  "organizer": ["PassionDrama", "TheMoonSage"],
+  "organizer": [
+    "PassionDrama",
+    "TheMoonSage"
+  ],
   "ruleset": "team",
   "description": "",
   "videos": [
@@ -16,19 +19,39 @@
   "squads": [
     {
       "name": "1988 Chicago Cucks",
-      "participants": ["Zamiell", "Cyber_1", "SlashSP", "antizoubilamakA"]
+      "participants": [
+        "Zamiell",
+        "Cyber_1",
+        "SlashSP",
+        "antizoubilamakA"
+      ]
     },
     {
       "name": "Prize pool enthusiast",
-      "participants": ["ReidMercury__", "thereisnofuture", "Shigan_", "thisguyisbarry"]
+      "participants": [
+        "ReidMercury__",
+        "thereisnofuture",
+        "Shigan_",
+        "thisguyisbarry"
+      ]
     },
     {
       "name": "The Most Mooniest Passionate Misticle Team EVER",
-      "participants": ["TheMoonSage", "IrgendeinMist", "PassionDrama", "Thalen22"]
+      "participants": [
+        "TheMoonSage",
+        "IrgendeinMist",
+        "PassionDrama",
+        "Thalen22"
+      ]
     },
     {
       "name": "The Guppypecats",
-      "participants": ["MoucheronQuipet", "mgln_", "AshD0wn", "GamonymousRC"]
+      "participants": [
+        "MoucheronQuipet",
+        "mgln_",
+        "AshD0wn",
+        "GamonymousRC"
+      ]
     }
   ],
   "matchups": [
