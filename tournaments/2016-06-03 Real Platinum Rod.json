@@ -36,7 +36,7 @@
       "url": "https://www.youtube.com/watch?v=_ufGDxnDM5o"
     }
   ],
-  "squads": [
+  "teams": [
     {
       "name": "Pepp in our Step",
       "participants": [
@@ -177,5 +177,6 @@
       "loser": "Irish unification",
       "score": "1-0"
     }
-  ]
+  ],
+  "winner": "n/a"
 }

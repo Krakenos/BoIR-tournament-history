@@ -23,7 +23,7 @@
       "url": "https://www.twitch.tv/videos/76043658"
     }
   ],
-  "squads": [
+  "teams": [
     {
       "name": "Team Embarrassing.",
       "participants": [
@@ -76,5 +76,6 @@
       "loser": "Team Embarrassing.",
       "score": "2-0"
     }
-  ]
+  ],
+  "winner": "n/a"
 }
