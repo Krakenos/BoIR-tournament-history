@@ -22,6 +22,7 @@ def checkKey(dict, key):
     return key in dict.keys()
 
 # Looping through every file in the tournaments folder
+racers = {}
 for path in sorted(glob.glob('tournaments/*.json')):
     # Load the file
     with open(path, 'r', encoding='utf-8', newline='\n') as f:
@@ -43,3 +44,11 @@ for path in sorted(glob.glob('tournaments/*.json')):
     for field in json_fields:
         if not checkKey(tournament_json, field):
             print(path + ' - ' + field + ' does not exist!')
+
+    # Check to see if a player's name is stylized incorrectly
+    for matchup in tournament_json['matchups']:
+        for racer in [matchup['winner'], matchup['loser']]:
+            if racer not in racers and racer.lower() not in racers:
+                racers[racer] = True
+            if racer not in racers and racer.lower() in racers:
+                print(path + ' - ' + racer + ' is styled incorrectly.')

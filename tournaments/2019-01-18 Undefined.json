@@ -35,20 +35,20 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Thereisnofuture",
-      "loser": "Olo70009",
+      "winner": "thereisnofuture",
+      "loser": "olo70009",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
-      "winner": "ReidMercury_______",
+      "winner": "ReidMercury__",
       "loser": "VoXeM",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
       "winner": "CrafterLynx",
-      "loser": "Mgln",
+      "loser": "mgln_",
       "score": "3-1",
       "ruleset": "diversity"
     },
@@ -71,13 +71,13 @@
       "ruleset": "seeded"
     },
     {
-      "winner": "Thereisnofuture",
+      "winner": "thereisnofuture",
       "loser": "Antizoubilamaka",
       "score": "3-2",
       "ruleset": "seeded"
     },
     {
-      "winner": "ReidMercury_______",
+      "winner": "ReidMercury__",
       "loser": "CrafterLynx",
       "score": "3-1",
       "ruleset": "seeded"
@@ -90,19 +90,19 @@
     },
     {
       "winner": "Dea1h",
-      "loser": "Thereisnofuture",
+      "loser": "thereisnofuture",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
-      "winner": "ReidMercury_______",
+      "winner": "ReidMercury__",
       "loser": "Shigan",
       "score": "3-1",
       "ruleset": "seeded"
     },
     {
       "winner": "Dea1h",
-      "loser": "ReidMercury_______",
+      "loser": "ReidMercury__",
       "score": "7-6",
       "ruleset": "other"
     }
