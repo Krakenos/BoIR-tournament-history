@@ -1,3 +1,2 @@
-trueskill
 requests
 python-dotenv
