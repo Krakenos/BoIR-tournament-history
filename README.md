@@ -4,7 +4,6 @@ This is a [historical archive](https://github.com/Krakenos/BoIR-trueskill/tree/m
 
 These tournaments are used to calculate TrueSkill ratings for players on [isaacrankings.com](https://isaacrankings.com/). The source code for the site can be found [here](https://github.com/Krakenos/BoIR-trueskill-site).
 
-### How to Use the "tournament_json_creator.py" Script
-
+The "tournament_json_creator.py" script can be used to automatically convert a Challonge bracket to a JSON file. To use it:
 * `pip install -r requirements.txt`
 * `python tournament_json_creator.py`
