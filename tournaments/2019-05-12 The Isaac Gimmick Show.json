@@ -1,0 +1,93 @@
+{
+  "name": "The Isaac Gimmick Show",
+  "challonge_id": "IsaacGimmickShow",
+  "challonge": "https://challonge.com/IsaacGimmickShow",
+  "date": "2019-05-12",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "team",
+  "description": "A 2v2 tournament that will require teamwork",
+  "videos": [
+    {
+      "description": "Day 1a",
+      "url": "https://www.twitch.tv/videos/487977539"
+    },
+    {
+      "description": "Day 1b",
+      "url": "https://www.twitch.tv/videos/487977143"
+    },
+    {
+      "description": "Day 1c",
+      "url": "https://www.twitch.tv/videos/487976871"
+    },
+    {
+      "description": "Day 2a",
+      "url": "https://www.twitch.tv/videos/487952963"
+    },
+    {
+      "description": "Day 2b",
+      "url": "https://www.twitch.tv/videos/487952416"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Ashd0wn-Pingouin23",
+      "loser": "Akarawa-Hujin",
+      "score": "3-0",
+      "description": "forfeit"
+    },
+    {
+      "winner": "Dea1h-Thereisnofuture",
+      "loser": "Ashd0wn-Pingouin23",
+      "score": "3-0"
+    },
+    {
+      "winner": "Tovahcat's Trials",
+      "loser": "The Drama Queens",
+      "score": "3-2"
+    },
+    {
+      "winner": "Jerome Anthony Enthousiast",
+      "loser": "TeaLex-Noowoo",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Gamonymous-Sakk",
+      "score": "3-2"
+    },
+    {
+      "winner": "Dea1h-Thereisnofuture",
+      "loser": "Tovahcat's Trials",
+      "score": "3-2"
+    },
+    {
+      "winner": "Jerome Anthony Enthousiast",
+      "loser": "The Drama Kings",
+      "score": "3-2"
+    },
+    {
+      "winner": "Dea1h-Thereisnofuture",
+      "loser": "Jerome Anthony Enthousiast",
+      "score": "3-1"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Tovahcat's Trials",
+      "score": "3-1"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Jerome Anthony Enthousiast",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h-Thereisnofuture",
+      "loser": "The Drama Kings",
+      "score": "3-2"
+    }
+  ],
+  "winner": "Dea1h-Thereisnofuture"
+}

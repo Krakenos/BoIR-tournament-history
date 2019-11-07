@@ -1,0 +1,70 @@
+{
+  "name": "Lil Haunt",
+  "challonge_id": "lilhaunt",
+  "challonge": "https://challonge.com/lilhaunt",
+  "date": "2019-10-26",
+  "notability": "minor",
+  "organizer": [
+    "LaTaupeFr"
+  ],
+  "ruleset": "diversity",
+  "description": "A diversity tournament (to the Dark Room)",
+  "videos": [
+    {
+      "description": "many rounds",
+      "url": "https://www.twitch.tv/theracingofisaac/video/499998809"
+    },
+    {
+      "description": "Moette vs mijus",
+      "url": "https://www.twitch.tv/theracingofisaac/video/500462916"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Gamonymous__",
+      "loser": "AshD0wn",
+      "score": "3-0"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "lenamek",
+      "score": "3-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Gamonymous__",
+      "score": "3-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Sakk_",
+      "score": "3-1"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "HauntedQuest",
+      "score": "3-2"
+    },
+    {
+      "winner": "mijus",
+      "loser": "Moette",
+      "score": "3-1"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Pingouin23",
+      "score": "3-2"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "mijus",
+      "score": "3-1"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Zamiell",
+      "score": "4-3"
+    }
+  ],
+  "winner": "antizoubilamakA"
+}

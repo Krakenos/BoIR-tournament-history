@@ -1,0 +1,100 @@
+{
+  "name": "The Void 2",
+  "challonge_id": "thevoid2019",
+  "challonge": "https://challonge.com/thevoid2019",
+  "date": "2019-08-09",
+  "notability": "minor",
+  "organizer": [
+    "KazooieGirl"
+  ],
+  "ruleset": "diversity",
+  "description": "A weekend diversity tournament with no prize pool",
+  "videos": [
+    {
+      "description": "Day 1",
+      "url": "https://www.twitch.tv/lataupefr/video/465696581"
+    },
+    {
+      "description": "Day 2",
+      "url": "https://www.twitch.tv/lataupefr/video/465697024"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Ashd0wn",
+      "score": "2-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "Krakenos",
+      "score": "2-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "Fawkeyes",
+      "score": "2-1"
+    },
+    {
+      "winner": "Reid__",
+      "loser": "Sakk_",
+      "score": "2-1"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "olo70009",
+      "score": "2-0"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "SlashSP",
+      "score": "2-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "PentaHybrid",
+      "score": "3-0"
+    },
+    {
+      "winner": "arecklessbunny",
+      "loser": "TheYale",
+      "score": "2-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "CrafterLynx",
+      "score": "2-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "Reid__",
+      "score": "2-1"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "Pingouin23",
+      "score": "2-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "arecklessbunny",
+      "score": "2-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Shigan_",
+      "score": "2-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "StoneAgeMarcus",
+      "score": "2-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "leo_ze_tron",
+      "score": "3-2"
+    }
+  ],
+  "winner": "antizoubilamakA"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "The Isaac Gimmick Show 2",
+  "challonge_id": "GimmickShow2",
+  "challonge": "https://challonge.com/GimmickShow2",
+  "date": "2019-09-21",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "team",
+  "description": "A 2v2 seeded tournament with a unique format that will require teamwork",
+  "videos": [
+    {
+      "description": "Part 1",
+      "url": "https://www.twitch.tv/theracingofisaac/video/487976871"
+    },
+    {
+      "description": "Part 2",
+      "url": "https://www.twitch.tv/theracingofisaac/video/487977143"
+    },
+    {
+      "description": "Part 3",
+      "url": "https://www.twitch.tv/theracingofisaac/video/487976871"
+    },
+    {
+      "desrciption": "Part 4 Final Day",
+      "url": "https://www.twitch.tv/theracingofisaac/video/487952963"
+    },
+    {
+      "description": "Part 5 Final Day",
+      "url": "https://www.twitch.tv/theracingofisaac/video/487952416"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Father and Son",
+      "loser": "Cyber-Slash",
+      "score": "3-1"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "The Leftovers",
+      "score": "2-0"
+    },
+    {
+      "winner": "Father and Son",
+      "loser": "The Drama Kings",
+      "score": "3-1"
+    },
+    {
+      "winner": "Cyber-Slash",
+      "loser": "The Leftovers",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Cyber-Slash",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Father and Son",
+      "score": "5-3"
+    },
+    {
+      "winner": "Father and Son",
+      "loser": "The Drama Kings",
+      "score": "5-2"
+    }
+  ],
+  "winner": "Father and Son"
+}

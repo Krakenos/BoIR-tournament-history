@@ -1,0 +1,114 @@
+{
+  "name": "Mini Mush",
+  "challonge_id": "Minimush",
+  "challonge": "https://challonge.com/Minimush",
+  "date": "2019-08-18",
+  "notability": "minor",
+  "organizer": [
+    "Sakk"
+  ],
+  "ruleset": "seeded",
+  "description": " A seeded tournament where each match is a best of 17 and you only go to Caves 1 instead of The Chest",
+  "videos": [
+    {
+      "description": "Part 1",
+      "url": "https://www.twitch.tv/sakk_/video/472578425"
+    },
+    {
+      "description": "Part 2",
+      "url": "https://www.twitch.tv/sakk_/video/472579223"
+    },
+    {
+      "description": "Part 3",
+      "url": "https://www.twitch.tv/sakk_/video/472580066"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "thereisnofuture",
+      "loser": "Ashd0wn",
+      "score": "9-1"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "MoucheronQuipet",
+      "score": "9-8"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Bertrand Cantal",
+      "score": "9-1"
+    },
+    {
+      "winner": "Lyslero",
+      "loser": "MrPopoche",
+      "score": "9-2"
+    },
+    {
+      "winner": "Reidmercury__",
+      "loser": "PassionDrama",
+      "score": "9-6"
+    },
+    {
+      "winner": "Azazoul",
+      "loser": "mijus",
+      "score": "9-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Lakid",
+      "score": "9-0"
+    },
+    {
+      "winner": "Crazyeightsfan69",
+      "loser": "Justitrash",
+      "score": "9-1"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Karmainspace",
+      "score": "9-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Johnny five-dicks",
+      "score": "9-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Lyslero",
+      "score": "9-0"
+    },
+    {
+      "winner": "Reidmercury__",
+      "loser": "Azazoul",
+      "score": "9-1"
+    },
+    {
+      "winner": "Crazyeightsfan69",
+      "loser": "Pingouin23",
+      "score": "9-7"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "olo70009",
+      "score": "9-2"
+    },
+    {
+      "winner": "Reidmercury__",
+      "loser": "thereisnofuture",
+      "score": "9-6"
+    },
+    {
+      "winner": "Crazyeightsfan69",
+      "loser": "Zamiell",
+      "score": "9-3"
+    },
+    {
+      "winner": "Reidmercury__",
+      "loser": "Crazyeightsfan69",
+      "score": "9-7"
+    }
+  ],
+  "winner": "Reidmercury__"
+}

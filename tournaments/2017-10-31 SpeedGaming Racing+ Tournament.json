@@ -1,5 +1,5 @@
 {
-  "name": "The Binding of Isaac Racing+ Tournament",
+  "name": "SpeedGaming Racing+ Tournament",
   "challonge_id": "tboi-2017",
   "challonge": "http://tboi.challonge.com/2017",
   "date": "2017-10-31",
@@ -20,7 +20,7 @@
       "winner": "MrElegante",
       "loser": "VicThor23",
       "score": "2-0",
-      "description": "Forfeit"
+      "description": "forfeit"
     },
     {
       "winner": "missingyes",
@@ -31,7 +31,7 @@
       "winner": "Zamiell",
       "loser": "MrElegante",
       "score": "2-0",
-      "description": "Forfeit"
+      "description": "forfeit"
     },
     {
       "winner": "ceehe",
