@@ -3,8 +3,13 @@ import requests
 import os
 import dotenv
 
-dotenv.load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))  # Loading .env
-api_key = os.environ.get('API_KEY')
+# Get the path of the script
+# From: https://stackoverflow.com/questions/4934806/how-can-i-find-scripts-directory-with-python
+DIR = os.path.dirname(os.path.realpath(__file__))
+
+# Load the ".env" fle
+dotenv.load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
+API_KEY = os.environ.get('API_KEY')
 
 
 def main():
@@ -14,16 +19,17 @@ def main():
         if tourney_id == 'q':
             break
 
-        # Getting the data through challonge api
-        tourney = requests.get('https://api.challonge.com/v1/tournaments/' + tourney_id + '.json',
-                               params={'api_key': api_key, 'include_participants': 1, 'include_matches': 1}).json()
+        # Get the data for this tournament through the Challonge API
+        url = 'https://api.challonge.com/v1/tournaments/' + tourney_id + '.json'
+        params = {'api_key': API_KEY, 'include_participants': 1, 'include_matches': 1}
+        tourney = requests.get(url, params=params).json()
         tourney_data = tourney['tournament']
         date = tourney_data['started_at'].split('T', 1)[0]  # YYYY-MM-DD
-        json_var = json_parser(tourney_data, tourney_id, date)
-        print(json_var)
-        with open('tournaments/' + date + ' ' + ''.join(e for e in tourney_data['name']
-                                                        if e not in '/\\?*"<>|:') + '.json', 'w') as data_file:
-            json.dump(json_var, data_file, indent=2)
+        json_file += ''.join(e for e in tourney_data['name'] if e not in '/\\?*"<>|:') + '.json'
+        output_path = path.join(DIR, 'tournaments', json_file)
+        parsed_json = json_parser(tourney_data, tourney_id, date)
+        with open(output_path, 'w', encoding='utf-8', newline='\n') as data_file:
+            json.dump(parsed_json, data_file, indent=2)
 
 
 def json_parser(tournament, t_id, date):
@@ -43,7 +49,7 @@ def json_parser(tournament, t_id, date):
     for match in matches:
         match_data = match['match']
 
-        # If there is no winner in match up we want the score to be a draw
+        # If there is no winner in the match data, then we want the score to be a draw
         if match_data['winner_id'] is None:
             parsed_json['matchups'].append({'winner': match_data['player1_id'],
                                             'loser': match_data['player2_id'],
@@ -61,14 +67,15 @@ def json_parser(tournament, t_id, date):
                                             'loser': match_data['loser_id'],
                                             'score': match_score})
 
-    # Looping through participants to get their id
+    # Looping through participants to get their ID
     for participant in participants:
         participant_id = participant['participant']['id']
         participant_group_id = participant['participant']['group_player_ids']
         participant_name = participant['participant']['name']
-        if participant_name == '':  # Sometimes name is empty because it's tied to challonge account
+        if participant_name == '':  # Sometimes name is empty because it's tied to Challonge account
             participant_name = participant['participant']['challonge_username']
-        # Replacing id's with player names in the parsed_json
+
+        # Replace the ID with the player name in the parsed JSON
         for match in parsed_json['matchups']:
             winner = match['winner']
             loser = match['loser']
@@ -76,7 +83,8 @@ def json_parser(tournament, t_id, date):
                 match['winner'] = participant_name
             if loser == participant_id or loser in participant_group_id:
                 match['loser'] = participant_name
-    print('json parsed successfully')
+
+    print('JSON parsed successfully.')
     return parsed_json
 
 
