@@ -5,18 +5,18 @@ import requests
 import sys
 import os
 
-# Get the path of the script
-# From: https://stackoverflow.com/questions/4934806/how-can-i-find-scripts-directory-with-python
-DIR = os.path.dirname(os.path.realpath(__file__))
-
-# Load the ".env" fle
-dotenv.load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
-API_KEY = os.environ.get('API_KEY')
-if API_KEY == '' or API_KEY is None:
-    print('Error: You must specify your Challonge API key in the ".env" file.')
-    sys.exit(1)
-
 def main():
+    # Get the path of the script
+    # From: https://stackoverflow.com/questions/4934806/how-can-i-find-scripts-directory-with-python
+    DIR = os.path.dirname(os.path.realpath(__file__))
+
+    # Load the ".env" fle
+    dotenv.load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
+    API_KEY = os.environ.get('API_KEY')
+    if API_KEY == '' or API_KEY is None:
+        print('Error: You must specify your Challonge API key in the ".env" file.')
+        sys.exit(1)
+
     # Check for a command line argument that specifies the tournament ID
     if len(sys.argv) == 2:
         get_tournament(sys.argv[1])
