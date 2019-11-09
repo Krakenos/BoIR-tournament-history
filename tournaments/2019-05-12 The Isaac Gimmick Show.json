@@ -9,8 +9,7 @@
   ],
   "ruleset": "team",
   "description": [
-	  "A 2v2 tournament that will require teamwork",
-	  "https://docs.google.com/presentation/d/1XsNmBbxYxMT8IrBqebnyGCqGErFilAqP0swDpwplW4M/edit#slide=id.p"
+	  "A 2v2 tournament that will require teamwork; https://docs.google.com/presentation/d/1XsNmBbxYxMT8IrBqebnyGCqGErFilAqP0swDpwplW4M/edit#slide=id.p"
   ],
   "videos": [
     {
@@ -75,6 +74,7 @@
       "participants": [
         "Tealex",
         "Noowoo"
+      ]
     }
   ],
   "matchups": [
