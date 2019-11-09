@@ -8,7 +8,10 @@
     "antizoubilamakA"
   ],
   "ruleset": "team",
-  "description": "A 2v2 tournament that will require teamwork",
+  "description": [
+	  "A 2v2 tournament that will require teamwork",
+	  "https://docs.google.com/presentation/d/1XsNmBbxYxMT8IrBqebnyGCqGErFilAqP0swDpwplW4M/edit#slide=id.p"
+  ],
   "videos": [
     {
       "description": "Day 1a",
@@ -29,6 +32,49 @@
     {
       "description": "Day 2b",
       "url": "https://www.twitch.tv/videos/487952416"
+    }
+  ],
+  "teams": [
+    {
+      "name": "The Drama Queens",
+      "participants": [
+        "Stoneagemarcus",
+        "Krakenos"
+      ]
+    },
+    {
+      "name": "The Drama Kings",
+      "participants": [
+        "Antizoubilamaka",
+        "Zamiel"
+      ]
+    },
+    {
+      "name": "I love Molfried",
+      "participants": [
+        "Gamonymous",
+        "Sakk"
+      ]
+    },
+    {
+      "name": "Jerome Anthony Enthusiast",
+      "participants": [
+        "Reidmercury",
+        "Shigan"
+      ]
+    },
+    {
+      "name": "Tovahcat’s Trials",
+      "participants": [
+        "Cyber_1",
+        "Mgln"
+      ]
+    },
+    {
+      "name": "Lil Nuts",
+      "participants": [
+        "Tealex",
+        "Noowoo"
     }
   ],
   "matchups": [
@@ -55,7 +101,7 @@
     },
     {
       "winner": "The Drama Kings",
-      "loser": "Gamonymous-Sakk",
+      "loser": "I Love Molfried",
       "score": "3-2"
     },
     {

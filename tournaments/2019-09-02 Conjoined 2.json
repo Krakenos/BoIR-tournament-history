@@ -7,169 +7,606 @@
   "organizer": [
     "StoneAgeMarcus"
   ],
-  "ruleset": "team",
-  "description": "A team-based league with a mix of seeded, unseeded, and diversity",
+  "ruleset": "multiple",
+  "description": [
+	  "A team-based league with a mix of seeded, unseeded, and diversity",
+	  "https://docs.google.com/document/d/1HSfLtLwba_njSB5WRCLL3ahS-2MifnSDsXgggBQpur4/edit"
+  ],
   "videos": [
     {
       "description": "Conjoined 2 LataupeFR Complete Collection Of 25 Videos",
       "url": "https://www.twitch.tv/collections/LLcqfxwHqhXAGQ"
     }
   ],
-  "matchups": [
+  "teams": [
     {
-      "winner": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "loser": "(Not so) Fast Pins",
-      "score": "3-0"
+      "name": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
+      "participants": [
+        "crazyeightsfan69",
+        "StoneAgeMarcus",
+        "PassionDrama"
+      ]
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "You are the Quality of my Life",
-      "score": "2-1"
+      "name": "The Isaac's Beam Dodgers",
+      "participants": [
+        "HauntedQuest",
+        "leo_ze_tron",
+        "Pingouin23"
+      ]
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "Objectively better than anyone else",
-      "score": "3-0"
+      "name": "(Not so) Fast Pins",
+      "participants": [
+        "thereisnofuture",
+        "mgln/CrafterLynx",
+        "klover48"
+      ]
+    }, 
+    { 
+      "name": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
+      "participants": [
+        "Shigan_",
+        "Gamonymous",
+        "Sakk"
+      ]
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "Objectively better than anyone else",
-      "score": "3-0"
+      "name": "Objectively better than anyone else",
+      "participants": [
+        "Zamiel",
+        "YuCaesar",
+        "AshDown"
+      ]
     },
     {
-      "winner": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "loser": "The Isaac's Beam Dodgers",
-      "score": "2-1"
+      "name": "You are the Quality of my Life",
+      "participants": [
+        "SlashSP",
+	"Krakenos",
+	"MoucheronQuipet"
+    }
+   ],
+   "matchups": [
+    {
+      "winner": "SlashSP",
+      "loser": "StoneAgeMarcus",
+      "score": "3-1",
+      "ruleset": "seeded"
     },
     {
-      "winner": "You are the Quality of my Life",
-      "loser": "(Not so) Fast Pins",
-      "score": "3-0"
+      "winner": "Crazyeightsfan69",
+      "loser": "MoucheronQuipet",
+      "score": "3-0",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "score": "2-1"
+      "winner": "PassionDrama",
+      "loser": "Krakenos",
+      "score": "3-0",
+      "ruleset": "deversity"
     },
     {
-      "winner": "Objectively better than anyone else",
-      "loser": "(Not so) Fast Pins",
-      "score": "2-1"
+      "winner": "leo_ze_tron",
+      "loser": "YuCaesar",
+      "score": "3-1",
+      "ruleset": "seeded"
     },
     {
-      "winner": "You are the Quality of my Life",
-      "loser": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "score": "2-1"
+      "winner": "HauntedQuest",
+      "loser": "Zamiel",
+      "score": "3-2",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "Objectively better than anyone else",
-      "loser": "You are the Quality of my Life",
-      "score": "3-0"
+      "winner": "Pingouin23",
+      "loser": "AshD0wn",
+      "score": "3-1",
+      "ruleset": "diversity"
     },
     {
-      "winner": "(Not so) Fast Pins",
-      "loser": "The Isaac's Beam Dodgers",
-      "score": "2-1"
+      "winner": "Shigan",
+      "loser": "thereisnofuture",
+      "score": "3-0",
+      "ruleset": "seeded"
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "score": "3-0"
+      "winner": "Gamonymous",
+      "loser": "klover48",
+      "score": "3-1",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "You are the Quality of my Life",
-      "score": "2-1"
+      "winner": "Sakk",
+      "loser": "mgln_",
+      "score": "3-2",
+      "ruleset": "diversity"
     },
     {
-      "winner": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "loser": "Objectively better than anyone else",
-      "score": "2-1"
+      "winner": "crazyeightsfan69",
+      "loser": "Zamiel",
+      "score": "3-0",
+      "ruleset": "seeded"
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "(Not so) Fast Pins",
-      "score": "2-1"
+      "winner": "PassionDrama",
+      "loser": "AshD0wn",
+      "score": "3-1",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "loser": "(Not so) Fast Pins",
-      "score": "3-0"
+      "winner": "StoneAgeMarcus",
+      "loser": "YuCaesar",
+      "score": "3-1",
+      "ruleset": "diversity"
     },
     {
-      "winner": "You are the Quality of my Life",
-      "loser": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "score": "2-1"
+      "winner": "Gamonymous",
+      "loser": "Pingouin23",
+      "score": "3-1",
+      "ruleset": "seeded"
     },
     {
-      "winner": "Objectively better than anyone else",
-      "loser": "The Isaac's Beam Dodgers",
-      "score": "2-1"
+      "winner": "leo_ze_tron",
+      "loser": "Shigan",
+      "score": "3-2",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "Objectively better than anyone else",
-      "score": "2-1"
+      "winner": "Sakk",
+      "loser": "HauntedQuest",
+      "score": "3-1",
+      "ruleset": "diversity"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "score": "2-1"
+      "winner": "MoucheronQuipet",
+      "loser": "mgln_",
+      "score": "3-2",
+      "ruleset": "seeded"
     },
     {
-      "winner": "(Not so) Fast Pins",
-      "loser": "You are the Quality of my Life",
-      "score": "2-1"
+      "winner": "Krakenos",
+      "loser": "Klover48",
+      "score": "3-1",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "score": "2-1"
+      "winner": "SlashSP",
+      "loser": "thereisnofuture",
+      "score": "3-0",
+      "ruleset": "diversity"
     },
     {
-      "winner": "(Not so) Fast Pins",
-      "loser": "Objectively better than anyone else",
-      "score": "2-1"
+      "winner": "PassionDrama",
+      "loser": "HauntedQuest",
+      "score": "3-0",
+      "ruleset": "seeded"
     },
     {
-      "winner": "You are the Quality of my Life",
-      "loser": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "score": "2-1"
+      "winner": "Pingouin23",
+      "loser": "StoneAgeMarcus",
+      "score": "3-0",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "Objectively better than anyone else",
-      "loser": "You are the Quality of my Life",
-      "score": "2-1"
+      "winner": "leo_ze_tron",
+      "loser": "crazyeightsfan69",
+      "score": "3-2",
+      "ruleset": "diversity"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "(Not so) Fast Pins",
-      "score": "3-0"
+      "winner": "AshD0wn",
+      "loser": "klover48",
+      "score": "3-0",
+      "ruleset": "seeded"
     },
     {
-      "winner": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "loser": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "score": "2-1"
+      "winner": "YuCaesar",
+      "loser": "thereisnofuture",
+      "score": "3-1",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "You are the Quality of my Life",
-      "score": "3-0"
+      "winner": "mgln",
+      "loser": "Zamiel",
+      "score": "3-1",
+      "ruleset": "diversity"
     },
     {
-      "winner": "Objectively better than anyone else",
-      "loser": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
-      "score": "3-0"
+      "winner": "Gamonymous",
+      "loser": "MoucheronQuipet",
+      "score": "3-0",
+      "ruleset": "seeded"
     },
     {
-      "winner": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "loser": "(Not so) Fast Pins",
-      "score": "3-0"
+      "winner": "Krakenos",
+      "loser": "Sakk",
+      "score": "3-0",
+      "ruleset": "unseeded"
     },
     {
-      "winner": "The Isaac's Beam Dodgers",
-      "loser": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
-      "score": "3-0"
+      "winner": "SlashSP",
+      "loser": "Shigan",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "Sakk-",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Gamonymous-",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "crazyeightsfan69",
+      "loser": "Shigan_",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "SlashSP",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "AshD0wn",
+      "loser": "MoucheronQuipet",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "Krakenos",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "mgln",
+      "loser": "HauntedQuest",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "leo_ze_tron",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "klover48",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "crazyeightsfan69",
+      "loser": "thereisnofuture",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "StoneAgeMarcus",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "klover48",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "leo_ze_tron",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "SlashSP",
+      "score": "3-2",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "MouchreonQuipet",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "AshD0wn",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "Sakk",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "YuCaesar",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "PassionDrama",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "SlashSP",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "crazyeightsfan69",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "AshDown",
+      "loser": "HauntedQuest",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "leo_ze_tron",
+      "score": ""3-2,
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Pingouin",
+      "loser": "Zamiel",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "klover48",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Sakk",
+      "loser": "thereisnofuture",
+      "score": "3-2",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "CrafterLynx",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "AshD0wn",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "crazyeightsfan69",
+      "score": "3-2",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Zamiel",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Sakk",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Pingouin23",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Gamonymous",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "MoucheronQuipet",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "klover48",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Krakenos",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "PassionDrama",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "StoneAgeMarcus",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "crazyeightsfan69",
+      "loser": "leo_ze_tron",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Sakk",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Krakenos",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Gamonymous",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "AshD0wn",
+      "loser": "Klover48",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Zamiel",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "YuCaesar",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "crazyeightsfan69",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Sakk",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "StoneAgeMarcus",
+      "score": "3-0",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Klover48",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "thereisnofuture",
+      "score": "3-2",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "Pingioun23",
+      "loser": "CrafterLynx",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "AshD0wn",
+      "score": "3-2",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "Krakenos",
+      "score": "3-1",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "MoucheronQuipet",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "crazyeightsfan69",
+      "loser": "CrafterLynx",
+      "score": "3-0",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "StoneAgeMarcus",
+      "loser": "klover48",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "thereisnofuture",
+      "score": "3-1",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "SlashSP",
+      "score": "3-2",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "MoucheronQuipet",
+      "score": "3-0",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "Krakenos",
+      "score": "3-2",
+      "ruleset": "diversity"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "Sakk",
+      "score": "3-1",
+      "ruleset": "seeded"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "Gamonymous",
+      "score": "3-2",
+      "ruleset": "unseeded"
+    },
+    {
+      "winner": "AshDown",
+      "loser": "Shigan",
+      "score": "3-1",
+      "ruleset": "diversity"
     }
   ],
   "winner": "The Isaac's Beam Dodgers"

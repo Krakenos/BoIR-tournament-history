@@ -31,6 +31,37 @@
       "url": "https://www.twitch.tv/theracingofisaac/video/487952416"
     }
   ],
+  "teams": [
+    {
+      "name": "Father and Son",
+      "participants": [
+        "dea1h",
+        "thereisnofuture"
+      ]
+    },
+    {
+      "name": "Cyber-Slash",
+      "participants": [
+        "cyber_1",
+        "SlashSP",
+        ""
+      ]
+    },
+    {
+      "name": "The Leftovers",
+      "participants": [
+        "yucaesar",
+        "pingouin23"
+      ]
+    },
+    {
+      "name": "The Drama Kings",
+      "participants": [
+        "antizoubilamaka",
+        "zamiell"
+      ]
+    }
+  ],
   "matchups": [
     {
       "winner": "Father and Son",
