@@ -8,9 +8,7 @@
     "antizoubilamakA"
   ],
   "ruleset": "team",
-  "description": [
-	  "A 2v2 tournament that will require teamwork; https://docs.google.com/presentation/d/1XsNmBbxYxMT8IrBqebnyGCqGErFilAqP0swDpwplW4M/edit#slide=id.p"
-  ],
+  "description": "A 2v2 tournament that will require teamwork; https://docs.google.com/presentation/d/1XsNmBbxYxMT8IrBqebnyGCqGErFilAqP0swDpwplW4M/edit",
   "videos": [
     {
       "description": "Day 1a",
@@ -37,36 +35,36 @@
     {
       "name": "The Drama Queens",
       "participants": [
-        "Stoneagemarcus",
+        "StoneAgeMarcus",
         "Krakenos"
       ]
     },
     {
       "name": "The Drama Kings",
       "participants": [
-        "Antizoubilamaka",
+        "antizoubilamakA",
         "Zamiel"
       ]
     },
     {
       "name": "I love Molfried",
       "participants": [
-        "Gamonymous",
-        "Sakk"
+        "Gamonymous__",
+        "Sakk_"
       ]
     },
     {
       "name": "Jerome Anthony Enthusiast",
       "participants": [
-        "Reidmercury",
-        "Shigan"
+        "ReidMercury__",
+        "Shigan_"
       ]
     },
     {
-      "name": "Tovahcat’s Trials",
+      "name": "Tovahcat\u2019s Trials",
       "participants": [
         "Cyber_1",
-        "Mgln"
+        "mgln_"
       ]
     },
     {

@@ -8,10 +8,7 @@
     "StoneAgeMarcus"
   ],
   "ruleset": "multiple",
-  "description": [
-	  "A team-based league with a mix of seeded, unseeded, and diversity",
-	  "https://docs.google.com/document/d/1HSfLtLwba_njSB5WRCLL3ahS-2MifnSDsXgggBQpur4/edit"
-  ],
+  "description": "A team-based league with a mix of seeded, unseeded, and diversity; https://docs.google.com/spreadsheets/d/1g0B-0O_iWrn2zGU1OXlyS-yI9Dkr3n1lrPG_T3CJmyc/edit & https://docs.google.com/document/d/1HSfLtLwba_njSB5WRCLL3ahS-2MifnSDsXgggBQpur4/edit",
   "videos": [
     {
       "description": "Conjoined 2 LataupeFR Complete Collection Of 25 Videos",
@@ -22,7 +19,7 @@
     {
       "name": "I have read the above discussion and vote that the team name is sacred heart homing bombs except there is a funny sound effect because you have no bomb",
       "participants": [
-        "crazyeightsfan69",
+        "antizoubilamakA",
         "StoneAgeMarcus",
         "PassionDrama"
       ]
@@ -39,22 +36,23 @@
       "name": "(Not so) Fast Pins",
       "participants": [
         "thereisnofuture",
-        "mgln/CrafterLynx",
+        "mgln_",
+        "CrafterLynx",
         "klover48"
       ]
-    }, 
-    { 
+    },
+    {
       "name": "Perfect Humble Authentic Lovely Lubricate Ultimate Sexyguys",
       "participants": [
         "Shigan_",
-        "Gamonymous",
-        "Sakk"
+        "Gamonymous__",
+        "Sakk_"
       ]
     },
     {
       "name": "Objectively better than anyone else",
       "participants": [
-        "Zamiel",
+        "Zamiell",
         "YuCaesar",
         "AshDown"
       ]
@@ -63,12 +61,12 @@
       "name": "You are the Quality of my Life",
       "participants": [
         "SlashSP",
-	"Krakenos",
-	"MoucheronQuipet"
+        "Krakenos",
+        "MoucheronQuipet"
       ]
     }
-   ],
-   "matchups": [
+  ],
+  "matchups": [
     {
       "winner": "SlashSP",
       "loser": "StoneAgeMarcus",
@@ -76,7 +74,7 @@
       "ruleset": "seeded"
     },
     {
-      "winner": "Crazyeightsfan69",
+      "winner": "antizoubilamakA",
       "loser": "MoucheronQuipet",
       "score": "3-0",
       "ruleset": "unseeded"
@@ -95,7 +93,7 @@
     },
     {
       "winner": "HauntedQuest",
-      "loser": "Zamiel",
+      "loser": "Zamiell",
       "score": "3-2",
       "ruleset": "unseeded"
     },
@@ -106,26 +104,26 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "thereisnofuture",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "klover48",
       "score": "3-1",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Sakk",
+      "winner": "Sakk_",
       "loser": "mgln_",
       "score": "3-2",
       "ruleset": "diversity"
     },
     {
-      "winner": "crazyeightsfan69",
-      "loser": "Zamiel",
+      "winner": "antizoubilamakA",
+      "loser": "Zamiell",
       "score": "3-0",
       "ruleset": "seeded"
     },
@@ -142,19 +140,19 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "Pingouin23",
       "score": "3-1",
       "ruleset": "seeded"
     },
     {
       "winner": "leo_ze_tron",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "3-2",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Sakk",
+      "winner": "Sakk_",
       "loser": "HauntedQuest",
       "score": "3-1",
       "ruleset": "diversity"
@@ -167,7 +165,7 @@
     },
     {
       "winner": "Krakenos",
-      "loser": "Klover48",
+      "loser": "klover48",
       "score": "3-1",
       "ruleset": "unseeded"
     },
@@ -191,7 +189,7 @@
     },
     {
       "winner": "leo_ze_tron",
-      "loser": "crazyeightsfan69",
+      "loser": "antizoubilamakA",
       "score": "3-2",
       "ruleset": "diversity"
     },
@@ -208,26 +206,26 @@
       "ruleset": "unseeded"
     },
     {
-      "winner": "mgln",
-      "loser": "Zamiel",
+      "winner": "mgln_",
+      "loser": "Zamiell",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "MoucheronQuipet",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
       "winner": "Krakenos",
-      "loser": "Sakk",
+      "loser": "Sakk_",
       "score": "3-0",
       "ruleset": "unseeded"
     },
     {
       "winner": "SlashSP",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "3-2",
       "ruleset": "diversity"
     },
@@ -239,12 +237,12 @@
     },
     {
       "winner": "PassionDrama",
-      "loser": "Gamonymous-",
+      "loser": "Gamonymous__",
       "score": "3-1",
       "ruleset": "unseeded"
     },
     {
-      "winner": "crazyeightsfan69",
+      "winner": "antizoubilamakA",
       "loser": "Shigan_",
       "score": "3-0",
       "ruleset": "diversity"
@@ -262,13 +260,13 @@
       "ruleset": "unseeded"
     },
     {
-      "winner": "Zamiel",
+      "winner": "Zamiell",
       "loser": "Krakenos",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "HauntedQuest",
       "score": "3-0",
       "ruleset": "seeded"
@@ -286,7 +284,7 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "crazyeightsfan69",
+      "winner": "antizoubilamakA",
       "loser": "thereisnofuture",
       "score": "3-0",
       "ruleset": "seeded"
@@ -317,24 +315,24 @@
     },
     {
       "winner": "HauntedQuest",
-      "loser": "MouchreonQuipet",
+      "loser": "MoucheronQuipet",
       "score": "3-2",
       "ruleset": "diversity"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "AshD0wn",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
-      "winner": "Zamiel",
-      "loser": "Sakk",
+      "winner": "Zamiell",
+      "loser": "Sakk_",
       "score": "3-0",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "YuCaesar",
       "score": "3-0",
       "ruleset": "diversity"
@@ -353,7 +351,7 @@
     },
     {
       "winner": "MoucheronQuipet",
-      "loser": "crazyeightsfan69",
+      "loser": "antizoubilamakA",
       "score": "3-0",
       "ruleset": "diversity"
     },
@@ -366,29 +364,29 @@
     {
       "winner": "YuCaesar",
       "loser": "leo_ze_tron",
-      "score": ""3-2,
+      "score": "3-2",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Pingouin",
-      "loser": "Zamiel",
+      "winner": "Pingouin23",
+      "loser": "Zamiell",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "klover48",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
-      "winner": "Sakk",
+      "winner": "Sakk_",
       "loser": "thereisnofuture",
       "score": "3-2",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "CrafterLynx",
       "score": "3-2",
       "ruleset": "diversity"
@@ -401,31 +399,31 @@
     },
     {
       "winner": "YuCaesar",
-      "loser": "crazyeightsfan69",
+      "loser": "antizoubilamakA",
       "score": "3-2",
       "ruleset": "unseeded"
     },
     {
       "winner": "PassionDrama",
-      "loser": "Zamiel",
+      "loser": "Zamiell",
       "score": "3-1",
       "ruleset": "diversity"
     },
     {
       "winner": "leo_ze_tron",
-      "loser": "Sakk",
+      "loser": "Sakk_",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "Pingouin23",
       "score": "3-0",
       "ruleset": "unseeded"
     },
     {
       "winner": "HauntedQuest",
-      "loser": "Gamonymous",
+      "loser": "Gamonymous__",
       "score": "3-0",
       "ruleset": "diversity"
     },
@@ -460,38 +458,38 @@
       "ruleset": "unseeded"
     },
     {
-      "winner": "crazyeightsfan69",
+      "winner": "antizoubilamakA",
       "loser": "leo_ze_tron",
       "score": "3-0",
       "ruleset": "diversity"
     },
     {
       "winner": "SlashSP",
-      "loser": "Sakk",
+      "loser": "Sakk_",
       "score": "3-1",
       "ruleset": "seeded"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "Krakenos",
       "score": "3-1",
       "ruleset": "unseeded"
     },
     {
       "winner": "MoucheronQuipet",
-      "loser": "Gamonymous",
+      "loser": "Gamonymous__",
       "score": "3-2",
       "ruleset": "diversity"
     },
     {
       "winner": "AshD0wn",
-      "loser": "Klover48",
+      "loser": "klover48",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
       "winner": "thereisnofuture",
-      "loser": "Zamiel",
+      "loser": "Zamiell",
       "score": "3-0",
       "ruleset": "unseeded"
     },
@@ -502,26 +500,26 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Shigan",
-      "loser": "crazyeightsfan69",
+      "winner": "Shigan_",
+      "loser": "antizoubilamakA",
       "score": "3-0",
       "ruleset": "seeded"
     },
     {
       "winner": "PassionDrama",
-      "loser": "Sakk",
+      "loser": "Sakk_",
       "score": "3-1",
       "ruleset": "unseeded"
     },
     {
-      "winner": "Gamonymous",
+      "winner": "Gamonymous__",
       "loser": "StoneAgeMarcus",
       "score": "3-0",
       "ruleset": "diversity"
     },
     {
       "winner": "HauntedQuest",
-      "loser": "Klover48",
+      "loser": "klover48",
       "score": "3-0",
       "ruleset": "seeded"
     },
@@ -544,7 +542,7 @@
       "ruleset": "seeded"
     },
     {
-      "winner": "Zamiel",
+      "winner": "Zamiell",
       "loser": "Krakenos",
       "score": "3-1",
       "ruleset": "unseeded"
@@ -556,7 +554,7 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "crazyeightsfan69",
+      "winner": "antizoubilamakA",
       "loser": "CrafterLynx",
       "score": "3-0",
       "ruleset": "seeded"
@@ -592,20 +590,20 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "Zamiel",
-      "loser": "Sakk",
+      "winner": "Zamiell",
+      "loser": "Sakk_",
       "score": "3-1",
       "ruleset": "seeded"
     },
     {
       "winner": "YuCaesar",
-      "loser": "Gamonymous",
+      "loser": "Gamonymous__",
       "score": "3-2",
       "ruleset": "unseeded"
     },
     {
       "winner": "AshDown",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "3-1",
       "ruleset": "diversity"
     }

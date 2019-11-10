@@ -48,9 +48,13 @@ def main():
             if not checkKey(tournament_json, field):
                 print(path + ' - ' + field + ' does not exist!')
 
+        # Validate the description
+        if type(tournament_json['description']) != str:
+            print(path + ' - The description field is not a string.')
+
         # Validate the winner field
         if tournament_json['winner'] == '':
-            print(path + ' - winner field is empty.')
+            print(path + ' - The winner field is empty.')
 
         # Check for player duplicates
         team_event = tournament_json['ruleset'] == 'team'
@@ -87,6 +91,7 @@ def main():
                 print(path + ' - ' + matchup['winner'] + ' vs ' + matchup['loser'] + ' has a potentially bogus score of "' + matchup['score'] + '".')
                 continue
 
+
 # -----------
 # Subroutines
 # -----------
@@ -110,14 +115,20 @@ def validatePlayerName(path, team_event, racer):
         return
 
     # Validate case stylization
-    if racer not in racers and racer.lower() not in racers:
-        racers[racer] = True
-    if racer not in racers and racer.lower() in racers:
-        print(path + ' - ' + racer + ' is styled incorrectly.')
+    if racer.lower() not in racers:
+        racers[racer.lower()] = racer
+    if racers[racer.lower()] != racer:
+        print(path + ' - "' + racer + '" has the wrong capitalization. Change it to "' + racers[racer.lower()] + '".')
 
     # For the rest of the validation, use the lowercase version of the racer's name
     original_racer = racer
     racer = racer.lower()
+
+    # Validate known smurf names
+    if 'crazy' in racer and original_racer != 'TehCrazyDuck':
+        print(path + ' - Replace "' + original_racer + '" with "antizoubilamakA".')
+    if 'reid' in racer and original_racer != 'ReidMercury__' and original_racer != 'Reiden':
+        print(path + ' - Replace "' + original_racer + '" with "ReidMercury__".')
 
     # Validate the amount of underscores
     racer_without_underscores = racer.replace('_', '')
