@@ -2,6 +2,7 @@
 import glob
 import json
 import re
+import sys
 
 # Constants
 json_fields = [
@@ -25,6 +26,11 @@ racers3 = {}
 
 
 def main():
+    # This script is written for Pyhton 3
+    if sys.version_info < (3, 0):
+        print('Error: This script requires Python 3.')
+        sys.exit(1)
+
     # Loop through every file in the tournaments folder
     for path in sorted(glob.glob('tournaments/*.json')):
         # Load the file
