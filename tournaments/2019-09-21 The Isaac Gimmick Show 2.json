@@ -23,7 +23,7 @@
       "url": "https://www.twitch.tv/theracingofisaac/video/487976871"
     },
     {
-      "desrciption": "Part 4 Final Day",
+      "description": "Part 4 Final Day",
       "url": "https://www.twitch.tv/theracingofisaac/video/487952963"
     },
     {
@@ -58,6 +58,13 @@
       "participants": [
         "antizoubilamakA",
         "Zamiell"
+      ]
+    },
+    {
+      "name": "Cyber-Slash",
+      "participants": [
+        "Cyber_1",
+        "SlashSP"
       ]
     }
   ],
