@@ -5,6 +5,7 @@ import requests
 import sys
 import os
 
+
 def main():
     # Get the path of the script
     # From: https://stackoverflow.com/questions/4934806/how-can-i-find-scripts-directory-with-python
@@ -19,7 +20,7 @@ def main():
 
     # Check for a command line argument that specifies the tournament ID
     if len(sys.argv) == 2:
-        get_tournament(sys.argv[1])
+        get_tournament(sys.argv[1], API_KEY, DIR)
         sys.exit(0)
 
     while True:
@@ -28,13 +29,13 @@ def main():
         if tourney_id == 'q':
             break
 
-        get_tournament(tourney_id)
+        get_tournament(tourney_id, API_KEY, DIR)
 
 
-def get_tournament(tourney_id):
+def get_tournament(tourney_id, api_key, dir):
     # Get the data for this tournament through the Challonge API
     url = 'https://api.challonge.com/v1/tournaments/' + tourney_id + '.json'
-    params = {'api_key': API_KEY, 'include_participants': 1, 'include_matches': 1}
+    params = {'api_key': api_key, 'include_participants': 1, 'include_matches': 1}
     api_response = requests.get(url, params=params)
     if api_response.status_code != 200:
         print('Error: The Challonge API returned an HTTP response code of "' + str(api_response.status_code) + '".')
@@ -48,7 +49,7 @@ def get_tournament(tourney_id):
 
     # Write it to a file
     json_file = ''.join(e for e in tourney_data['name'] if e not in '/\\?*"<>|:') + '.json'
-    output_path = os.path.join(DIR, 'tournaments', json_file)
+    output_path = os.path.join(dir, 'tournaments', json_file)
     with open(output_path, 'w', encoding='utf-8', newline='\n') as data_file:
         json.dump(parsed_json, data_file, indent=2)
 
@@ -76,10 +77,9 @@ def parse_json(tournament, t_id, date):
         if match_data['winner_id'] is None:
             # Validate that there are player IDs
             if ((match_data['player1_id'] == '' or match_data['player1_id'] is None) and
-                (match_data['player2_id'] == '' or match_data['player2_id'] is None)):
-
-               print('Error: Failed to find the player IDs for the following match: ' + match_data)
-               sys.exit(1)
+                    (match_data['player2_id'] == '' or match_data['player2_id'] is None)):
+                print('Error: Failed to find the player IDs for the following match: ' + match_data)
+                sys.exit(1)
 
             # Since it was a tie, put a score of "0-0"
             # This match should be investigated later and either deleted entirely or have manual score set
@@ -102,7 +102,6 @@ def parse_json(tournament, t_id, date):
             # The tournament winner is not listed in the JSON that we get back from the Challonge API
             # Thus, assume that the winner of the last match is the tournament winner
             tournament_winner = match_data['winner_id']
-
 
     # Looping through participants to get their ID
     participants = tournament['participants']
