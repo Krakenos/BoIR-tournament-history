@@ -1,0 +1,161 @@
+{
+  "name": "ESA Summer 2019",
+  "challonge_id": "esa2019isaac",
+  "challonge": "https://challonge.com/esa2019isaac",
+  "date": "2019-07-23",
+  "notability": "minor",
+  "organizer": [
+    "Shigan_"
+  ],
+  "ruleset": "diversity",
+  "description": "IRL tournament that happened during ESA Summer 2019 event.",
+  "videos": [
+    {
+      "description": "Final Bracket of the tournament",
+      "url": "https://www.youtube.com/watch?v=gxnwYxJ9pq0"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Krakenos",
+      "loser": "Gamonymous__",
+      "score": "2-0"
+    },
+    {
+      "winner": "freezylemon",
+      "loser": "Chfou",
+      "score": "2-0"
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "Chfou",
+      "score": "2-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "freezylemon",
+      "score": "2-0"
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "freezylemon",
+      "score": "2-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Chfou",
+      "score": "2-0"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "robosparkle",
+      "score": "2-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "steb",
+      "score": "2-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "robosparkle",
+      "score": "2-0"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "steb",
+      "score": "2-0"
+    },
+    {
+      "winner": "robosparkle",
+      "loser": "steb",
+      "score": "2-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "PassionDrama",
+      "score": "2-1"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "pikkafighter",
+      "score": "2-0"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "amateseru",
+      "score": "2-0"
+    },
+    {
+      "winner": "amateseru",
+      "loser": "pikkafighter",
+      "score": "2-0"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "YuCaesar",
+      "score": "2-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "pikkafighter",
+      "score": "2-0"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "amateseru",
+      "score": "2-1"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Shigan_",
+      "score": "2-0"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "Pingouin23",
+      "score": "2-1"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Krakenos",
+      "score": "2-0"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "PassionDrama",
+      "score": "2-1"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "Gamonymous__",
+      "score": "2-0"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "Shigan_",
+      "score": "2-1"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Krakenos",
+      "score": "2-0"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "PassionDrama",
+      "score": "2-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Pingouin23",
+      "score": "2-1"
+    },
+    {
+      "winner": "YuCaesar",
+      "loser": "Gamonymous__",
+      "score": "2-1"
+    }
+  ],
+  "winner": "YuCaesar"
+}
