@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Imports
 import glob
 import json
@@ -17,6 +19,33 @@ json_fields = [
     'videos',
     'matchups',
     'winner',
+]
+json_videos_fields = [
+    'description',
+    'url',
+]
+valid_rulesets = [
+    # Most tournaments use one of the three main racing formats
+    'seeded',
+    'unseeded',
+    'diversity',
+
+    # A mixed tournament is where each individual set of a match is played on a different ruleset
+    # The ruleset is specified in the "ruleset_per_round" field in each matchup
+    # (for example, see the "BITE 2" tournament)
+    'mixed',
+
+    # Team tournaments have various rules but are not used in leaderboard calculation since each individual matchup cannot be isolated
+    # (for example, see the "Four Course Racing" tournament)
+    'team',
+
+    # Some tournaments are team-based but have individual matchups that can be isolated per ruleset
+    # The ruleset is specified in the "ruleset" field in each matchup
+    # (for example, see the "Conjoined" tournament)
+    'multiple',
+
+    # This is a unique tournament that has custom rules and should not be counted towards the leaderboards
+    'other',
 ]
 
 # Global variables
@@ -52,18 +81,48 @@ def main():
         # Check that all of the specified fields are present in each
         for field in json_fields:
             if not checkKey(tournament_json, field):
-                print(path + ' - ' + field + ' does not exist!')
+                print(path + ' - The "' + field + '" field does not exist!')
+        team_event = tournament_json['ruleset'] == 'team'
+        if team_event:
+            if not checkKey(tournament_json, 'teams'):
+                print(path + ' - The "teams" field does not exist!')
+
+        # Check for extra fields
+        for field in tournament_json:
+            if field not in json_fields and field != 'teams':
+                print(path + ' - ' + field + ' is unknown!')
+
+        # Validate the ruleset
+        if type(tournament_json['ruleset']) != str:
+            print(path + ' - The "ruleset" field is not a string.')
+        elif tournament_json['ruleset'] == '':
+            print(path + ' - The "ruleset" field is empty.')
+        elif tournament_json['ruleset'] not in valid_rulesets:
+            print(path + ' - The "ruleset" field is set to "' + tournament_json['ruleset'] + '", which is an unknown ruleset.')
 
         # Validate the description
         if type(tournament_json['description']) != str:
-            print(path + ' - The description field is not a string.')
+            print(path + ' - The "description" field is not a string.')
+
+        # Validate the videos
+        if isinstance(tournament_json['videos'], list):
+            for video in tournament_json['videos']:
+                for field in json_videos_fields:
+                    if not checkKey(video, field):
+                        print(path + ' - ' + field + ' does not exist!')
+                for field in video:
+                    if field not in json_videos_fields:
+                        print(path + ' - ' + field + ' is unknown!')
+        else:
+            print(path + ' - The "videos" field is not a list.')
 
         # Validate the winner field
-        if tournament_json['winner'] == '':
-            print(path + ' - The winner field is empty.')
+        if type(tournament_json['winner']) != str:
+            print(path + ' - The "winner" field is not a string.')
+        elif tournament_json['winner'] == '':
+            print(path + ' - The "winner" field is empty.')
 
         # Check for player duplicates
-        team_event = tournament_json['ruleset'] == 'team'
         for matchup in tournament_json['matchups']:
             for racer in [matchup['winner'], matchup['loser']]:
                 validatePlayerName(path, team_event, racer)
