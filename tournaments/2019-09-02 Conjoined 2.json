@@ -54,7 +54,7 @@
       "participants": [
         "Zamiell",
         "YuCaesar",
-        "AshDown"
+        "AshD0wn"
       ]
     },
     {
@@ -356,7 +356,7 @@
       "ruleset": "diversity"
     },
     {
-      "winner": "AshDown",
+      "winner": "AshD0wn",
       "loser": "HauntedQuest",
       "score": "3-1",
       "ruleset": "seeded"
@@ -602,11 +602,11 @@
       "ruleset": "unseeded"
     },
     {
-      "winner": "AshDown",
+      "winner": "AshD0wn",
       "loser": "Shigan_",
       "score": "3-1",
       "ruleset": "diversity"
     }
   ],
-  "winner": "The Isaac's Beam Dodgers"
+  "winner": "n/a"
 }
