@@ -1,16 +1,106 @@
 {
   "name": "Conjoined",
-  "challonge_id": "",
-  "challonge": "",
+  "challonge_id": "conjoined",
+  "challonge": "https://challonge.com/conjoined",
   "date": "2018-07-01",
   "notability": "minor",
   "organizer": [
     "StoneAgeMarcus"
   ],
   "ruleset": "multiple",
-  "description": "Team based tournament, where opponents face each other in 3 different rulesets (seeded, unseeded, diversity)",
+  "description": "Team based tournament, where opponents face each other in 3 different rulesets (seeded, unseeded, diversity) https://docs.google.com/document/d/1CC1f5emraJqhAC7TbBNYbMUj9UzSFYJxpw7CRj7sd6w/edit",
   "videos": [],
-  "matchups": [
+  "teams": [
+    {
+      "name": "Team Cyber",
+      "participants": [
+        "Ou_j",
+        "Hispa",
+        "Cyber_1"
+      ]
+    },
+    {
+      "name": "nowt so quees as folk",
+      "participants": [
+        "ceehe",
+        "Blumpkin_Idaho",
+        "Hikarichan73"
+      ]
+    },
+    {
+      "name": "Mango Salsa",
+      "participants": [
+        "Zamiel",
+        "Cyoche",
+        "Olo70009"
+      ]
+    },
+    {
+      "name": "Bob's No-Brain",
+      "participants": [
+        "AshDown",
+        "leo_ze_tron",
+        "HauntedQuest"
+      ]
+    },
+    {
+      "name": "Kitties United with Kebap",
+      "participants": [
+        "Shigan_",
+        "TheMoonSage",
+        "Sakk"
+      ]
+    },
+    {
+      "name": "Lucky Charms",
+      "participants": [
+        "SlashSP",
+        "Greed",
+        "Klover48"
+    }
+   ],
+    {
+      "name": "Queens Of The Future Age",
+      "participants": [
+        "thereisnofuture",
+        "StoneAgeMarcus",
+        "YuCaesar"
+      ]
+    },
+    {
+      "name": "Team thisguyisbarry",
+      "participants": [
+        "thisguyisbarry",
+        "Mgln",
+        "MoucheronQuipet"
+      ]
+    },
+    {
+      "name": "Team HauntedQuest",
+      "participants": [
+        "HauntedQuest",
+        "AshDown",
+        "leo_ze_tron"
+      ]
+    },
+    {
+      "name": "I turned myself into a flat earth morty i'm flat earth riiiiiiick!",
+      "participants": [
+        "crazyeightsfan69",
+        "RedStoneMenace",
+        "PassionDrama"
+      ]
+    },
+    {
+      "name": "Turtle Dash",
+      "participants": [
+        "thisguyisbarry",
+        "MoucheronQuipet",
+        "mgln"
+      ]
+    }
+   ],
+   "matchups": [
     {
       "winner": "Cyber_1",
       "loser": "ceehe",
@@ -660,5 +750,5 @@
       "ruleset": "diversity"
     }
   ],
-  "winner": "n/a"
+  "winner": "Queens of the Future Age"
 }
