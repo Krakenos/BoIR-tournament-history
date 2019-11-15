@@ -127,11 +127,18 @@ def main():
             for racer in [matchup['winner'], matchup['loser']]:
                 validatePlayerName(path, team_event, racer)
 
-        # Check for player duplicates in teams
         if 'teams' in tournament_json:
+            # Check for player duplicates in teams and
+            # check that the same player is not on two different teams
+            racers4 = {}
             for team in tournament_json['teams']:
                 for participant in team['participants']:
                     validatePlayerName(path, team_event, participant)
+                    if tournament_json['name'] != "Real Platinum Rod":
+                        if participant not in racers4:
+                            racers4[participant] = True
+                        else:
+                            print(path + ' - "' + participant + '" is on two separate teams.')
 
         # Check for player duplicates in the organizers
         for organizer in tournament_json['organizer']:
@@ -200,7 +207,7 @@ def validatePlayerName(path, team_event, racer):
     if racer_without_underscores not in racers2:
         racers2[racer_without_underscores] = racer
     if racers2[racer_without_underscores] != racer:
-        print(path + ' - ' + original_racer + ' has the incorrect amount of underscores.')
+        print(path + ' - ' + original_racer + ' has the incorrect amount of underscores. There should be ' + str(racers2[racer_without_underscores].count('_')) + ' underscore(s).')
 
     # Validate the first X characters
     # (but skip team events since most teams will begin with "Team X")
