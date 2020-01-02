@@ -1,5 +1,13 @@
-# This .gitignore is from GitHub:
+# -----------------------------
+# BoIR-tournament-history stuff
+# -----------------------------
+
+*.swp
+
+# -------------------------------------
+# GitHub .gitignore template for Python
 # https://github.com/github/gitignore/blob/master/Python.gitignore
+# -------------------------------------
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
