@@ -1,0 +1,256 @@
+{
+  "name": "Poop Party - Rainbow League",
+  "challonge_id": "PoopPartyR",
+  "challonge": "https://challonge.com/PoopPartyR",
+  "date": "2019-11-03",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "diversity",
+  "description": "",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "Cyber_1",
+      "loser": "thereisnofuture",
+      "score": "4-2"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Moette",
+      "score": "0-0"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Fawkeyes",
+      "score": "4-0"
+    },
+    {
+      "winner": "pingouin23",
+      "loser": "SlashSP",
+      "score": "4-3"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "Lobsterosity",
+      "score": "0-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Zamiel",
+      "score": "4-0"
+    },
+    {
+      "winner": "lenamek",
+      "loser": "latommecrochue",
+      "score": "4-1"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "mgln",
+      "score": "4-3"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Lobsterosity",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Fawkeyes",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Moette",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "lenamek",
+      "score": "4-0"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "pingouin23",
+      "score": "4-3"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Shigan",
+      "score": "4-2"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "MoucheronQuipet",
+      "score": "4-2"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "SlashSP",
+      "score": "4-3"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "MoucheronQuipet",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "lenamek",
+      "score": "4-0"
+    },
+    {
+      "winner": "pingouin23",
+      "loser": "Zamiel",
+      "score": "4-1"
+    },
+    {
+      "winner": "Fawkeyes",
+      "loser": "latommecrochue",
+      "score": "4-0"
+    },
+    {
+      "winner": "mgln",
+      "loser": "Moette",
+      "score": "4-0"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "Dea1h",
+      "score": "4-3"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Antizoubilamaka",
+      "score": "4-3"
+    },
+    {
+      "winner": "mgln",
+      "loser": "SlashSP",
+      "score": "0-0"
+    },
+    {
+      "winner": "lenamek",
+      "loser": "Fawkeyes",
+      "score": "4-2"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "MoucheronQuipet",
+      "score": "4-1"
+    },
+    {
+      "winner": "Lobsterosity",
+      "loser": "latommecrochue",
+      "score": "4-3"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Dea1h",
+      "score": "4-3"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "leo_ze_tron",
+      "score": "4-3"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "pingouin23",
+      "score": "4-2"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Gamonymous",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Dea1h",
+      "score": "4-2"
+    },
+    {
+      "winner": "pingouin23",
+      "loser": "lenamek",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln",
+      "loser": "MoucheronQuipet",
+      "score": "4-2"
+    },
+    {
+      "winner": "Gamonymous",
+      "loser": "Zamiel",
+      "score": "4-3"
+    },
+    {
+      "winner": "Fawkeyes",
+      "loser": "Lobsterosity",
+      "score": "4-2"
+    },
+    {
+      "winner": "Moette",
+      "loser": "latommecrochue",
+      "score": "4-0"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "thereisnofuture",
+      "score": "4-0"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Cyber_1",
+      "score": "4-3"
+    },
+    {
+      "winner": "Zamiel",
+      "loser": "lenamek",
+      "score": "4-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Fawkeyes",
+      "score": "4-2"
+    },
+    {
+      "winner": "Moette",
+      "loser": "Lobsterosity",
+      "score": "4-3"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "latommecrochue",
+      "score": "4-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "mgln",
+      "score": "4-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Shigan",
+      "score": "4-1"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "pingouin23",
+      "score": "4-2"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Gamonymous",
+      "score": "4-1"
+    }
+  ],
+  "winner": "Antizoubilamaka"
+}

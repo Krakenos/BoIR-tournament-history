@@ -1,0 +1,76 @@
+{
+  "name": "Brown League Finals",
+  "challonge_id": "2i4oefbk",
+  "challonge": "https://challonge.com/2i4oefbk",
+  "date": "2020-02-01",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "unseeded",
+  "description": "",
+  "videos": [
+    {
+     "description": "Poop Party Unseeded Finals: Day2",
+     "url":" https://www.twitch.tv/videos/545778373"
+    }
+],
+  "matchups": [
+    {
+      "winner": "mgln",
+      "loser": "leo_ze_tron",
+      "score": "4-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "SlashSP",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln",
+      "loser": "Dea1h",
+      "score": "4-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Antizoubilamaka",
+      "score": "4-3"
+    },
+    {
+      "winner": "mgln",
+      "loser": "thereisnofuture",
+      "score": "4-3"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Antizoubilamaka",
+      "score": "4-3"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Dea1h",
+      "score": "4-2"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "SlashSP",
+      "score": "4-2"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "thereisnofuture",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "mgln",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    }
+  ],
+  "winner": "mgln"
+}

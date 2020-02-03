@@ -1,0 +1,75 @@
+{
+  "name": "Golden League Finals",
+  "challonge_id": "veti736o",
+  "challonge": "https://challonge.com/veti736o",
+  "date": "2020-01-25",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description":"Poop Party Seeded Finals: Day 1 ",
+      "url": "https://www.twitch.tv/videos/542175659"
+    },
+    {
+      "description": "Poop Party Seeded Finals: Day 2",
+      "url": "https://www.twitch.tv/videos/545207647"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "mgln",
+      "score": "4-0"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Zamiel",
+      "score": "4-1"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Dea1h",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Shigan",
+      "score": "4-1"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "thereisnofuture",
+      "score": "4-2"
+    },
+    {
+      "winner": "mgln",
+      "loser": "Shigan",
+      "score": "4-2"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Zamiel",
+      "score": "4-3"
+    },
+    {
+      "winner": "mgln",
+      "loser": "Dea1h",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln",
+      "loser": "thereisnofuture",
+      "score": "4-3"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "mgln",
+      "score": "4-0"
+    }
+  ],
+  "winner": "Antizoubilamaka"
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Rainbow League Finals",
+  "challonge_id": "2bgw4nqb",
+  "challonge": "https://challonge.com/2bgw4nqb",
+  "date": "2020-01-18",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "diversity",
+  "description": "",
+  "videos": [
+    {
+      "description": "Poop Party Diversity Finals: Day 1",
+      "url": "https://www.twitch.tv/videos/541602056"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Moette",
+      "score": "4-0"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "mgln",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Gamonymous",
+      "score": "4-2"
+    },
+    {
+      "winner": "Shigan",
+      "loser": "Antizoubilamaka",
+      "score": "4-3"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "thereisnofuture",
+      "score": "4-2"
+    },
+    {
+      "winner": "Cyber_1",
+      "loser": "Shigan",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Moette",
+      "score": "4-0"
+    },
+    {
+      "winner": "mgln",
+      "loser": "Gamonymous",
+      "score": "4-2"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "thereisnofuture",
+      "score": "4-1"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "mgln",
+      "score": "4-0"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "leo_ze_tron",
+      "score": "4-0"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Shigan",
+      "score": "4-2"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Cyber_1",
+      "score": "4-3"
+    },
+    {
+      "winner": "Antizoubilamaka",
+      "loser": "Cyber_1",
+      "score": "4-3"
+    }
+  ],
+  "winner": "Antizoubilamaka"
+}
