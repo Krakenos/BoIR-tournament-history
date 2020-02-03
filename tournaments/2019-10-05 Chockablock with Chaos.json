@@ -1,0 +1,95 @@
+{
+  "name": "Chockablock with Chaos",
+  "challonge_id": "chockablockwithchaos",
+  "challonge": "https://challonge.com/chockablockwithchaos",
+  "date": "2019-10-05",
+  "notability": "minor",
+  "organizer": [
+    "YuCaesar",
+    "Krakenos"
+  ],
+  "ruleset": "other",
+  "description": "A charity tournament with a custom ruleset",
+  "videos": [
+    {
+      "description": "Pingouin23 vs lenamek",
+      "url": "https://www.twitch.tv/lataupefr/video/491232208"
+    },
+    {
+      "description": "antizoubilamakA vs HauntedQuest",
+      "url": "https://www.twitch.tv/lataupefr/video/491232357"
+    },
+    {
+      "description": "thisguyisbarry vs HauntedQuest (part 1)",
+      "url": "https://www.twitch.tv/lataupefr/video/491232357"
+    },
+    {
+      "description": "thisguyisbarry vs HauntedQuest (part 2)",
+      "url": "https://www.twitch.tv/lataupefr/video/491232495"
+    },
+    {
+      "description": "SlashSP vs lenamek",
+      "url": "https://www.twitch.tv/lataupefr/video/491232495"
+    },
+    {
+      "description": "StoneAgeMarkus vs CrafterLynx",
+      "url": "https://www.twitch.tv/lataupefr/video/491232607"
+    },
+    {
+      "description": "PassionDrama vs HauntedQuest",
+      "url": "https://www.twitch.tv/lataupefr/video/491232607"
+    },
+    {
+      "description": "SlashSP vs HauntedQuest",
+      "url": "https://www.twitch.tv/lataupefr/video/491232796"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "PassionDrama",
+      "loser": "AL",
+      "score": "3-0"
+    },
+    {
+      "winner": "lenamek",
+      "loser": "Pingouin23",
+      "score": "3-2"
+    },
+    {
+      "winner": "PassionDrama",
+      "loser": "antizoubilamakA",
+      "score": "3-2"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "thisguyisbarry",
+      "score": "3-1"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "lenamek",
+      "score": "3-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "StoneAgeMarcus",
+      "score": "3-0"
+    },
+    {
+      "winner": "HauntedQuest",
+      "loser": "PassionDrama",
+      "score": "3-2"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "CrafterLynx",
+      "score": "3-0"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "HauntedQuest",
+      "score": "5-4"
+    }
+  ],
+  "winner": "SlashSP"
+}

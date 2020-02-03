@@ -1,0 +1,121 @@
+{
+  "name": "Isaac Racing Bonanza",
+  "challonge_id": "IsaacRacingBonanza",
+  "challonge": "https://challonge.com/IsaacRacingBonanza",
+  "date": "2019-07-07",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "mixed",
+  "description": "A 1v1 tournament with a mix of formats, the loser picking what they want",
+  "videos": [
+    {
+      "description": "18 VODs",
+      "url": "https://www.twitch.tv/theracingofisaac/videos?filter=highlights&sort=time"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Gamonymous__",
+      "loser": "Pingouin23",
+      "score": "3-1"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "lenamek",
+      "score": "3-2"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Juan3299",
+      "score": "3-0"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "AshD0wn",
+      "score": "3-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "mijus",
+      "score": "3-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "HauntedQuest",
+      "score": "3-1"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Dea1h",
+      "score": "4-2"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "SlashSP",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "mgln_",
+      "score": "4-3"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Zamiell",
+      "score": "4-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Shigan_",
+      "score": "4-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "thereisnofuture",
+      "score": "4-1"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Dea1h",
+      "score": "4-3"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "leo_ze_tron",
+      "score": "4-0"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "StoneAgeMarcus",
+      "score": "4-1"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "mgln_",
+      "score": "4-3"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "Zamiell",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Shigan_",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Gamonymous__",
+      "score": "5-1"
+    }
+  ],
+  "winner": "thereisnofuture"
+}

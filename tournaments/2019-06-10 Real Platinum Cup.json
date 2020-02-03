@@ -1,0 +1,96 @@
+{
+  "name": "Real Platinum Cup",
+  "challonge_id": "",
+  "challonge": "",
+  "date": "2019-06-10",
+  "notability": "minor",
+  "organizer": [
+    "Rorkin"
+  ],
+  "ruleset": "unseeded",
+  "description": "Players must play several unseeded races over and over. Rorkin did not save the VODs. Bracket: https://www.toornament.com/en_US/tournaments/2562610605643423744/stages/2562644787608870912/",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "Siaraa",
+      "loser": "Reiden",
+      "score": "0-1"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Nariom",
+      "score": "8-7"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "CrafterLynx",
+      "score": "8-6"
+    },
+    {
+      "winner": "Lakid",
+      "loser": "JoKriss",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Benkize",
+      "score": "7-4"
+    },
+    {
+      "winner": "Iglo",
+      "loser": "Demage",
+      "score": "1-0"
+    },
+    {
+      "winner": "Checkinsearch",
+      "loser": "thereisnofuture",
+      "score": "6-5"
+    },
+    {
+      "winner": "Nariom",
+      "loser": "Personne",
+      "score": "1-0"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Siaraa",
+      "score": "8-8"
+    },
+    {
+      "winner": "SlashSP",
+      "loser": "Lakid",
+      "score": "10-4"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Iglo",
+      "score": "10-8"
+    },
+    {
+      "winner": "Checkinsearch",
+      "loser": "Nariom",
+      "score": "10-5"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "SlashSP",
+      "score": "13-11"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Checkinsearch",
+      "score": "12-10"
+    },
+    {
+      "winner": "Checkinsearch",
+      "loser": "Sakk_",
+      "score": "1-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "SlashSP",
+      "score": "1-0"
+    }
+  ],
+  "winner": "Dea1h"
+}

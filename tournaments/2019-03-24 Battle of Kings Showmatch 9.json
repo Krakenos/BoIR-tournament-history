@@ -1,0 +1,26 @@
+{
+  "name": "Battle of Kings Showmatch 9",
+  "challonge_id": "",
+  "challonge": "",
+  "date": "2019-03-24",
+  "notability": "minor",
+  "organizer": [
+    "Dea1h"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "url": "",
+      "description": "will be added as soon as dea1h creates a highlight"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Shigan_",
+      "loser": "ceehe",
+      "score": "5-0"
+    }
+  ],
+  "winner": "Shigan_"
+}
