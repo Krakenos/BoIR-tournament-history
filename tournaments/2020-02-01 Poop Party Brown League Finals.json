@@ -17,7 +17,7 @@
 ],
   "matchups": [
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "leo_ze_tron",
       "score": "4-2"
     },
@@ -27,7 +27,7 @@
       "score": "4-1"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "Dea1h",
       "score": "4-2"
     },
@@ -37,7 +37,7 @@
       "score": "4-3"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "thereisnofuture",
       "score": "4-3"
     },
@@ -63,14 +63,14 @@
     },
     {
       "winner": "leo_ze_tron",
-      "loser": "mgln",
+      "loser": "mgln_",
       "score": "4-1"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "leo_ze_tron",
       "score": "4-1"
     }
   ],
-  "winner": "mgln"
+  "winner": "mgln_"
 }

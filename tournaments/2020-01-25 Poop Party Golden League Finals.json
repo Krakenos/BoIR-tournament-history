@@ -22,7 +22,7 @@
   "matchups": [
     {
       "winner": "Antizoubilamaka",
-      "loser": "mgln",
+      "loser": "mgln_",
       "score": "4-0"
     },
     {
@@ -46,7 +46,7 @@
       "score": "4-2"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "Shigan",
       "score": "4-2"
     },
@@ -56,18 +56,18 @@
       "score": "4-3"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "Dea1h",
       "score": "4-1"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "thereisnofuture",
       "score": "4-3"
     },
     {
       "winner": "Antizoubilamaka",
-      "loser": "mgln",
+      "loser": "mgln_",
       "score": "4-0"
     }
   ],
