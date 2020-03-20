@@ -1,0 +1,71 @@
+{
+  "name": "The Isaac Pandemic Show",
+  "challonge_id": "IsaacCOVID19",
+  "challonge": "https://challonge.com/IsaacCOVID19",
+  "date": "2020-03-16",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "lenamek",
+      "loser": "Moette",
+      "score": "4-2"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "mijus",
+      "score": "4-1"
+    },
+    {
+      "winner": "REXmoreOP",
+      "loser": "HispanK",
+      "score": "4-3"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Juan3299",
+      "score": "4-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "lenamek",
+      "score": "4-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "mgln_",
+      "score": "4-3"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "REXmoreOP",
+      "score": "4-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "olo70009",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "CrafterLynx",
+      "score": "5-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Zamiell",
+      "score": "5-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Dea1h",
+      "score": "5-0"
+    }
+  ],
+  "winner": "thereisnofuture"
+}
