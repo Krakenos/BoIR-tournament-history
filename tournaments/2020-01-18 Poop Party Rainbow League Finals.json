@@ -17,12 +17,12 @@
   ],
   "matchups": [
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "Moette",
       "score": "4-0"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "leo_ze_tron",
       "score": "4-1"
     },
@@ -33,12 +33,12 @@
     },
     {
       "winner": "thereisnofuture",
-      "loser": "Gamonymous",
+      "loser": "Gamonymous__",
       "score": "4-2"
     },
     {
-      "winner": "Shigan",
-      "loser": "Antizoubilamaka",
+      "winner": "Shigan_",
+      "loser": "antizoubilamakA",
       "score": "4-3"
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "winner": "Cyber_1",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "4-1"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "winner": "mgln_",
-      "loser": "Gamonymous",
+      "loser": "Gamonymous__",
       "score": "4-2"
     },
     {
@@ -67,30 +67,30 @@
       "score": "4-1"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "mgln_",
       "score": "4-0"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "leo_ze_tron",
       "score": "4-0"
     },
     {
-      "winner": "Antizoubilamaka",
-      "loser": "Shigan",
+      "winner": "antizoubilamakA",
+      "loser": "Shigan_",
       "score": "4-2"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "Cyber_1",
       "score": "4-3"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "Cyber_1",
       "score": "4-3"
     }
   ],
-  "winner": "Antizoubilamaka"
+  "winner": "antizoubilamakA"
 }

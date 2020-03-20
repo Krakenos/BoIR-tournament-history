@@ -14,7 +14,8 @@
     {
       "winner": "Moette",
       "loser": "StoneAgeMarcus",
-      "score": "0-0"
+      "score": "4-0",
+      "description": "Forfeit"
     },
     {
       "winner": "thereisnofuture",
@@ -33,18 +34,19 @@
     },
     {
       "winner": "Dea1h",
-      "loser": "mgln",
+      "loser": "mgln_",
       "score": "4-2"
     },
     {
-      "winner": "Shigan",
-      "loser": "Zamiel",
+      "winner": "Shigan_",
+      "loser": "Zamiell",
       "score": "4-0"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "joethebobman",
-      "score": "0-0"
+      "score": "4-0",
+      "description": "Forfeit"
     },
     {
       "winner": "Dea1h",
@@ -57,22 +59,23 @@
       "score": "4-3"
     },
     {
-      "winner": "Shigan",
+      "winner": "Shigan_",
       "loser": "Moette",
       "score": "4-0"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "Fawkeyes",
       "score": "4-1"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "SlashSP",
-      "score": "0-0"
+      "score": "4-0",
+      "description": "Forfeit"
     },
     {
-      "winner": "Zamiel",
+      "winner": "Zamiell",
       "loser": "latommecrochue",
       "score": "4-0"
     },
@@ -82,12 +85,12 @@
       "score": "4-0"
     },
     {
-      "winner": "mgln",
+      "winner": "mgln_",
       "loser": "Moette",
       "score": "4-2"
     },
     {
-      "winner": "Zamiel",
+      "winner": "Zamiell",
       "loser": "Fawkeyes",
       "score": "4-0"
     },
@@ -98,26 +101,26 @@
     },
     {
       "winner": "Dea1h",
-      "loser": "Antizoubilamaka",
+      "loser": "antizoubilamakA",
       "score": "4-1"
     },
     {
       "winner": "leo_ze_tron",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "4-1"
     },
     {
       "winner": "thereisnofuture",
-      "loser": "mgln",
+      "loser": "mgln_",
       "score": "4-3"
     },
     {
-      "winner": "Antizoubilamaka",
-      "loser": "Shigan",
+      "winner": "antizoubilamakA",
+      "loser": "Shigan_",
       "score": "4-1"
     },
     {
-      "winner": "Zamiel",
+      "winner": "Zamiell",
       "loser": "Moette",
       "score": "4-2"
     },
@@ -138,12 +141,12 @@
     },
     {
       "winner": "SlashSP",
-      "loser": "Shigan",
+      "loser": "Shigan_",
       "score": "4-1"
     },
     {
-      "winner": "mgln",
-      "loser": "Zamiel",
+      "winner": "mgln_",
+      "loser": "Zamiell",
       "score": "4-2"
     },
     {
@@ -157,7 +160,7 @@
       "score": "4-1"
     },
     {
-      "winner": "Antizoubilamaka",
+      "winner": "antizoubilamakA",
       "loser": "leo_ze_tron",
       "score": "4-3"
     },
