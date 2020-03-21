@@ -1,0 +1,92 @@
+{
+  "name": "Seeden",
+  "challonge_id": "seeden",
+  "challonge": "https://challonge.com/seeden",
+  "date": "2020-02-08",
+  "notability": "minor",
+  "organizer": [
+    "Pingouin23",
+    "YuCaesar"
+  ],
+  "ruleset": "seeded",
+  "description": "Seeded tournament with Eden",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "Moette",
+      "loser": "Adrayon",
+      "score": "3-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ez_duke",
+      "score": "3-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "olo70009",
+      "score": "3-0"
+    },
+    {
+      "winner": "CrafterLynx",
+      "loser": "andy457_",
+      "score": "3-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "HispanK",
+      "score": "3-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "XleBoByLKa",
+      "score": "3-1"
+    },
+    {
+      "winner": "DarkDragonx6",
+      "loser": "InvaderTimStreams",
+      "score": "3-0"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "mikachelya",
+      "score": "3-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Moette",
+      "score": "3-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "CrafterLynx",
+      "score": "3-2"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Zamiell",
+      "score": "3-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "DarkDragonx6",
+      "score": "3-0"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "Dea1h",
+      "score": "3-1"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "leo_ze_tron",
+      "score": "3-2"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Gamonymous__",
+      "score": "3-1"
+    }
+  ],
+  "winner": "antizoubilamakA"
+}
