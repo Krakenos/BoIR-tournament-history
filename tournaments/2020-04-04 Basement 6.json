@@ -1,0 +1,56 @@
+{
+  "name": "Basement 6 ",
+  "challonge_id": "6basement",
+  "challonge": "https://challonge.com/6basement",
+  "date": "2020-04-04",
+  "notability": "minor",
+  "organizer": [
+    "SlashSP"
+  ],
+  "ruleset": "unseeded",
+  "description": "",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "tooschi",
+      "loser": "ez_duke",
+      "score": "3-1"
+    },
+    {
+      "winner": "tooschi",
+      "loser": "fuwzie",
+      "score": "3-0"
+    },
+    {
+      "winner": "mijibbon",
+      "loser": "murrayg1993",
+      "score": "3-0"
+    },
+    {
+      "winner": "juan3299",
+      "loser": "edy47",
+      "score": "3-1"
+    },
+    {
+      "winner": "christinafitzgerald",
+      "loser": "axtrox",
+      "score": "3-2"
+    },
+    {
+      "winner": "tooschi",
+      "loser": "mijibbon",
+      "score": "4-1"
+    },
+    {
+      "winner": "juan3299",
+      "loser": "christinafitzgerald",
+      "score": "4-3"
+    },
+    {
+      "winner": "tooschi",
+      "loser": "juan3299",
+      "score": "4-0"
+    }
+  ],
+  "winner": "tooschi"
+}

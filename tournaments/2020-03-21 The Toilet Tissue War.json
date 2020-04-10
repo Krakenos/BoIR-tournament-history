@@ -1,0 +1,60 @@
+{
+  "name": "The Toilet Tissue War",
+  "challonge_id": "fgyqg06j",
+  "challonge": "https://challonge.com/fgyqg06j",
+  "date": "2020-03-21",
+  "notability": "minor",
+  "organizer": [
+    "Hispank"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "The Toilet Tissue War - Quarterfinals",
+      "url": "https://www.twitch.tv/videos/576251908"
+    },
+    {
+      "description": "The Toilet Tissue War - Finals",
+      "url": "https://www.twitch.tv/videos/576303060"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "antizoubilamaka",
+      "loser": "juan3299",
+      "score": "4-0"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "Crafterlynx",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "olo70009",
+      "score": "4-1"
+    },
+    {
+      "winner": "Yucaesar",
+      "loser": "Zamiell",
+      "score": "4-0"
+    },
+    {
+      "winner": "antizoubilamaka",
+      "loser": "mgln_",
+      "score": "5-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Yucaesar",
+      "score": "5-3"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "antizoubilamaka",
+      "score": "5-3"
+    }
+  ],
+  "winner": "thereisnofuture"
+}
