@@ -9,7 +9,16 @@
   ],
   "ruleset": "unseeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Basement 6 Day 1",
+      "url": "https://www.twitch.tv/videos/588585929"
+    },
+    {
+      "description": "Basement 6 Day 2",
+      "url": "https://www.twitch.tv/videos/588608169"
+    }
+  ],
   "matchups": [
     {
       "winner": "tooschi",
