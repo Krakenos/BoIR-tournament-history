@@ -77,11 +77,12 @@ def parse_json(tournament, t_id, date):
 
         # If there is no winner in the match data, then we want the score to be a draw
         if match_data['winner_id'] is None:
-            # Validate that there are player IDs
+            # Validate that there are player IDs, if both fields are empty match is pending and should be skipped
             if ((match_data['player1_id'] == '' or match_data['player1_id'] is None) and
                     (match_data['player2_id'] == '' or match_data['player2_id'] is None)):
-                print('Error: Failed to find the player IDs for the following match: ' + match_data)
-                sys.exit(1)
+                print('Error: Failed to find the player IDs for the following match: ')
+                print(match_data)
+                continue
 
             # Since it was a tie, put a score of "0-0"
             # This match should be investigated later and either deleted entirely or have manual score set
