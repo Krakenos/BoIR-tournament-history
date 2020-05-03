@@ -1,0 +1,160 @@
+{
+  "name": "Isaac Gimmick Show 3",
+  "challonge_id": "GimmickShow3",
+  "challonge": "https://challonge.com/GimmickShow3",
+  "date": "2020-04-25",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "team",
+  "description": "A 2v2 seeded tournament that require teamwork",
+  "videos": [
+    {
+      "description": "Day 1",
+      "url": "https://www.twitch.tv/videos/603711279"
+    },
+    {
+      "description": "Day 2",
+      "url": "https://www.twitch.tv/videos/603719597"
+    }
+  ],
+  "teams": [
+    {
+      "name": "The Drama Kings",
+      "participants": [
+        "antizoubilamakA",
+        "Zamiell"
+      ]
+    },
+    {
+      "name": "we don't care",
+      "participants": [
+        "Moette",
+        "Gamonymous__"
+      ]
+    },
+    {
+      "name": "Francheese",
+      "participants": [
+        "shawnzzzi",
+        "satanas_le_rouge"
+      ]
+    },
+    {
+      "name": "Dusty Dads",
+      "participants": [
+        "doifler",
+        "assasin524"
+      ]
+    },
+    {
+      "name": "last one race racers",
+      "participants": [
+        "christinafitzgerald",
+        "ez_duke"
+      ]
+    },
+    {
+      "name": "Adayon",
+      "participants": [
+        "Adrayon"
+      ]
+    },
+    {
+      "name": "Forever alone",
+      "participants": [
+        "Dea1h"
+      ]
+    },
+    {
+      "name": "Coffin Dancers",
+      "participants": [
+        "leo_ze_tron",
+        "lenamek"
+      ]
+    },
+    {
+      "name": "Espa\u00f1ita y ol\u00e9",
+      "participants": [
+        "HispanK",
+        "Juan3299"
+      ]
+    },
+    {
+      "name": "S tier eden streaker + A tier snipping loser",
+      "participants": [
+        "thereisnofuture",
+        "mgln_"
+      ]
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Dusty Dads",
+      "loser": "Francheese",
+      "score": "3-1"
+    },
+    {
+      "winner": "Adrayon",
+      "loser": "last one race racers",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Dusty Dads",
+      "score": "3-0"
+    },
+    {
+      "winner": "we don't care",
+      "loser": "Forever alone",
+      "score": "3-1"
+    },
+    {
+      "winner": "S tier eden streaker + A tier snipping loser",
+      "loser": "Adrayon",
+      "score": "3-0"
+    },
+    {
+      "winner": "Coffin Dancers",
+      "loser": "Espa\u00f1ita y ol\u00e9",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "we don't care",
+      "score": "3-0"
+    },
+    {
+      "winner": "S tier eden streaker + A tier snipping loser",
+      "loser": "Coffin Dancers",
+      "score": "3-2"
+    },
+    {
+      "winner": "S tier eden streaker + A tier snipping loser",
+      "loser": "The Drama Kings",
+      "score": "3-1"
+    },
+    {
+      "winner": "Coffin Dancers",
+      "loser": "we don't care",
+      "score": "3-1"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "Coffin Dancers",
+      "score": "3-2"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "S tier eden streaker + A tier snipping loser",
+      "score": "3-0"
+    },
+    {
+      "winner": "The Drama Kings",
+      "loser": "S tier eden streaker + A tier snipping loser",
+      "score": "3-1"
+    }
+  ],
+  "winner": "The Drama Kings"
+}
