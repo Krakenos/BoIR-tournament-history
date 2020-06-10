@@ -1,0 +1,56 @@
+{
+  "name": "Isaac Tier List Title Bout B tier",
+  "challonge_id": "TierlistB",
+  "challonge": "https://challonge.com/TierlistB",
+  "date": "2020-05-30",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "The Isaac Tier List - A Tier",
+      "url": "https://www.twitch.tv/videos/636418623"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Zamiell",
+      "loser": "Sakk_",
+      "score": "4-1"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Krakenos",
+      "score": "4-3"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "MoucheronQuipet",
+      "score": "4-2"
+    },
+    {
+      "winner": "Krakenos",
+      "loser": "Sakk_",
+      "score": "4-2"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Krakenos",
+      "score": "4-2"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Zamiell",
+      "score": "4-2"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "Zamiell",
+      "score": "4-1"
+    }
+  ],
+  "winner": "MoucheronQuipet"
+}

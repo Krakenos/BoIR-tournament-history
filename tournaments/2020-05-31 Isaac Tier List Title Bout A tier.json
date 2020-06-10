@@ -1,0 +1,65 @@
+{
+  "name": "Isaac Tier List Title Bout A tier",
+  "challonge_id": "TierlistA",
+  "challonge": "https://challonge.com/TierlistA",
+  "date": "2020-06-06",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "The Isaac Tier List - A Tier Day1",
+      "url": "https://www.twitch.tv/videos/643145285"
+    },
+    {
+      "description": "The Isaac Tier List - A Tier Day2",
+      "url": "https://www.twitch.tv/videos/643930784"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Gamonymous__",
+      "loser": "MoucheronQuipet",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "Gamonymous__",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Pingouin23",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "mgln_",
+      "score": "4-2"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "MoucheronQuipet",
+      "score": "4-2"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Gamonymous__",
+      "score": "4-0"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "Pingouin23",
+      "score": "4-2"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "mgln_",
+      "score": "4-3"
+    }
+  ],
+  "winner": "leo_ze_tron"
+}
