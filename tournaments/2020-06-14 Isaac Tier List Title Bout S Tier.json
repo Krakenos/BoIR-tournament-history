@@ -1,0 +1,65 @@
+{
+  "name": "Isaac Tier List Title Bout S Tier",
+  "challonge_id": "TierlistS",
+  "challonge": "https://challonge.com/TierlistS",
+  "date": "2020-06-13",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "The Isaac Tier List - S Tier Day1",
+      "url": "https://www.twitch.tv/videos/649701984"
+    },
+    {
+      "description": "The Isaac Tier List - S Tier Day2",
+      "url": "https://www.twitch.tv/videos/650809440"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "Shigan_",
+      "loser": "leo_ze_tron",
+      "score": "5-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Shigan_",
+      "score": "5-2"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "thereisnofuture",
+      "score": "5-0"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Dea1h",
+      "score": "5-3"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "leo_ze_tron",
+      "score": "5-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "thereisnofuture",
+      "score": "5-4"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "Dea1h",
+      "score": "5-4"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Shigan_",
+      "score": "5-2"
+    }
+  ],
+  "winner": "ReidMercury__"
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Isaac Tier List Title Bout C tier",
+  "challonge_id": "TierlistC",
+  "challonge": "https://challonge.com/TierlistC",
+  "date": "2020-05-16",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "The Isaac Tier List - C Tier Day1",
+      "url": "https://www.twitch.tv/videos/623033857"
+    },
+    {
+      "description": "The Isaac Tier List - C Tier Day2",
+      "url": "https://www.twitch.tv/videos/625895394"
+    },
+    {
+      "description": "The Isaac Tier List - C Tier Day3",
+      "url": "https://www.twitch.tv/videos/629925837"
+    },
+    {
+      "description": "The Isaac Tier List - C Tier Day4",
+      "url": "https://www.twitch.tv/videos/634709927"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "mijus",
+      "loser": "satanas",
+      "score": "3-0"
+    },
+    {
+      "winner": "Moette",
+      "loser": "neonomi",
+      "score": "3-2"
+    },
+    {
+      "winner": "ez_duke",
+      "loser": "HispanK",
+      "score": "3-1"
+    },
+    {
+      "winner": "mijus",
+      "loser": "Anidalife",
+      "score": "3-2"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Adrayon",
+      "score": "3-0"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Moette",
+      "score": "3-1"
+    },
+    {
+      "winner": "ez_duke",
+      "loser": "lenamek",
+      "score": "3-0",
+      "description": "forfeit lenamek"
+    },
+    {
+      "winner": "mijus",
+      "loser": "olo70009",
+      "score": "3-2"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "ez_duke",
+      "score": "3-2"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "mijus",
+      "score": "3-0",
+      "description": "forfeit mijus"
+    },
+    {
+      "winner": "lenamek",
+      "loser": "satanas",
+      "score": "3-0"
+    },
+    {
+      "winner": "neonomi",
+      "loser": "Adrayon",
+      "score": "3-1"
+    },
+    {
+      "winner": "Anidalife",
+      "loser": "HispanK",
+      "score": "3-1"
+    },
+    {
+      "winner": "Moette",
+      "loser": "lenamek",
+      "score": "3-2"
+    },
+    {
+      "winner": "neonomi",
+      "loser": "Anidalife",
+      "score": "3-2"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Moette",
+      "score": "3-2"
+    },
+    {
+      "winner": "ez_duke",
+      "loser": "neonomi",
+      "score": "3-2"
+    },
+    {
+      "winner": "ez_duke",
+      "loser": "olo70009",
+      "score": "3-1"
+    },
+    {
+      "winner": "ez_duke",
+      "loser": "mijus",
+      "score": "3-0",
+      "description": "forfeit mijus"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "ez_duke",
+      "score": "3-2"
+    }
+  ],
+  "winner": "Sakk_"
+}
