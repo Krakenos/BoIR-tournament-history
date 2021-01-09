@@ -1,0 +1,86 @@
+{
+  "name": "Lords of the Pit 4",
+  "challonge_id": "k3nm6o6g",
+  "challonge": "https://challonge.com/k3nm6o6g",
+  "date": "2020-08-29",
+  "notability": "minor",
+  "organizer": [
+    "SlashSP"
+  ],
+  "ruleset": "other",
+  "description": "season-races",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "antizoubilamakA",
+      "loser": "mijus",
+      "score": "1-0"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Pingouin23",
+      "score": "1-0"
+    },
+    {
+      "winner": "FinalKids",
+      "loser": "leo_ze_tron",
+      "score": "1-0"
+    },
+    {
+      "winner": "Zamiell",
+      "loser": "Adrayon",
+      "score": "1-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "olo70009",
+      "score": "1-0"
+    },
+    {
+      "winner": "FinalKids",
+      "loser": "Zamiell",
+      "score": "1-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "FinalKids",
+      "score": "1-0"
+    },
+    {
+      "winner": "mijus",
+      "loser": "Pingouin23",
+      "score": "1-0"
+    },
+    {
+      "winner": "Adrayon",
+      "loser": "leo_ze_tron",
+      "score": "1-0"
+    },
+    {
+      "winner": "mijus",
+      "loser": "Zamiell",
+      "score": "1-0"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "Adrayon",
+      "score": "1-0"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "mijus",
+      "score": "1-0"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "FinalKids",
+      "score": "1-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "olo70009",
+      "score": "2-1"
+    }
+  ],
+  "winner": "antizoubilamakA"
+}

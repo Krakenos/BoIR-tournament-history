@@ -1,0 +1,91 @@
+{
+  "name": "Poop Party 2 - Diversity Finals",
+  "challonge_id": "pp2divfinals",
+  "challonge": "https://challonge.com/pp2divfinals",
+  "date": "2020-11-28",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "diversity",
+  "description": "",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Gamonymous__",
+      "score": "4-0"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "SlashSP",
+      "score": "4-2"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Zamiell",
+      "score": "4-1"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Pingouin23",
+      "score": "4-1"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Sakk_",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "thereisnofuture",
+      "score": "4-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "antizoubilamakA",
+      "score": "4-2"
+    },
+    {
+      "winner": "Gamonymous__",
+      "loser": "SlashSP",
+      "score": "4-2"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Zamiell",
+      "score": "4-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Gamonymous__",
+      "score": "4-1"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "Pingouin23",
+      "score": "4-3"
+    },
+    {
+      "winner": "Sakk_",
+      "loser": "thereisnofuture",
+      "score": "4-2"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Sakk_",
+      "score": "4-2"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Dea1h",
+      "score": "4-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "Dea1h",
+      "score": "4-3"
+    }
+  ],
+  "winner": "antizoubilamakA"
+}

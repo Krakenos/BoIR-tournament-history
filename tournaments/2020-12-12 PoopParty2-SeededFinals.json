@@ -1,0 +1,86 @@
+{
+  "name": "Poop Party 2 Seeded Finals",
+  "challonge_id": "pp2seededfinals",
+  "challonge": "https://challonge.com/pp2seededfinals",
+  "date": "2020-12-13",
+  "notability": "minor",
+  "organizer": [
+    "antizoubilamakA"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [],
+  "matchups": [
+    {
+      "winner": "ReidMercury__",
+      "loser": "Adrayon",
+      "score": "4-1"
+    },
+    {
+      "winner": "Shigan_",
+      "loser": "thereisnofuture",
+      "score": "4-3"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "mgln_",
+      "score": "4-1"
+    },
+    {
+      "winner": "leo_ze_tron",
+      "loser": "Gamonymous__",
+      "score": "4-1"
+    },
+    {
+      "winner": "ReidMercury__",
+      "loser": "Shigan_",
+      "score": "4-3"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ReidMercury__",
+      "score": "4-3"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "Adrayon",
+      "score": "4-3"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "Gamonymous__",
+      "score": "4-2"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "leo_ze_tron",
+      "score": "4-1"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "Shigan_",
+      "score": "4-2"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "thereisnofuture",
+      "score": "4-2"
+    },
+    {
+      "winner": "mgln_",
+      "loser": "ReidMercury__",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "mgln_",
+      "score": "4-3"
+    }
+  ],
+  "winner": "Dea1h"
+}
