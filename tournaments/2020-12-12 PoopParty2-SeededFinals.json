@@ -9,7 +9,16 @@
   ],
   "ruleset": "seeded",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Poop Party2 Seeded Finals: Day 1",
+      "url": "https://www.twitch.tv/theracingofisaac/video/844759189"
+    },
+    {
+      "description": "Poop Party2 Seeded Finals: Day2",
+      "url": "https://www.twitch.tv/theracingofisaac/video/844759189"
+    }
+  ],
   "matchups": [
     {
       "winner": "ReidMercury__",

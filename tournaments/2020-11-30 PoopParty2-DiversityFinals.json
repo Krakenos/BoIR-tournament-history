@@ -9,7 +9,16 @@
   ],
   "ruleset": "diversity",
   "description": "",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Poop Party2 Diversity Finals: Day 1",
+      "url": "https://www.twitch.tv/toooschi/video/838120585"
+    },
+    {
+      "description": "Poop Party2 Diversity Finals: Day2",
+      "url": "https://www.twitch.tv/toooschi/video/838123692"
+    }
+  ],
   "matchups": [
     {
       "winner": "antizoubilamakA",

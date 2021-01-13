@@ -9,7 +9,16 @@
   ],
   "ruleset": "other",
   "description": "season-races",
-  "videos": [],
+  "videos": [
+    {
+      "description": "Lord of the Pit: Day 1",
+      "url": "twitch.tv/lataupefr/video/735023328"
+    },
+    {
+      "description": "Lord of the Pit: Day 2",
+      "url": "https://www.twitch.tv/lataupefr/video/735023579"
+    }
+  ],
   "matchups": [
     {
       "winner": "antizoubilamakA",
