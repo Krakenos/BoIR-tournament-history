@@ -1,0 +1,80 @@
+{
+  "name": "NO AWP  Tournament",
+  "challonge_id": "noawp",
+  "challonge": "https://challonge.com/noawp",
+  "date": "2021-01-16",
+  "notability": "minor",
+  "organizer": [
+    "HispanK"
+  ],
+  "ruleset": "seeded",
+  "description": "",
+  "videos": [
+    {
+      "description": "NOAWP Tournament: Day1",
+      "url": "https://www.twitch.tv/videos/875827803"
+    },
+    {
+      "description": "NOAWP Tournament: Day2",
+      "url": "https://www.twitch.tv/videos/877238973"
+    }
+  ],
+  "matchups": [
+    {
+      "winner": "ez_duke",
+      "loser": "Adrayon",
+      "score": "4-1"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "Elgirs",
+      "score": "4-1"
+    },
+    {
+      "winner": "olo70009",
+      "loser": "mijus",
+      "score": "4-0"
+    },
+    {
+      "winner": "MoucheronQuipet",
+      "loser": "KiraKeepKool",
+      "score": "4-0"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "ez_duke",
+      "score": "4-3"
+    },
+    {
+      "winner": "Pingouin23",
+      "loser": "YuCaesar",
+      "score": "4-0"
+    },
+    {
+      "winner": "antizoubilamakA",
+      "loser": "olo70009",
+      "score": "4-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "MoucheronQuipet",
+      "score": "4-3"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "Pingouin23",
+      "score": "4-0"
+    },
+    {
+      "winner": "thereisnofuture",
+      "loser": "antizoubilamakA",
+      "score": "4-3"
+    },
+    {
+      "winner": "Dea1h",
+      "loser": "thereisnofuture",
+      "score": "5-2"
+    }
+  ],
+  "winner": "Dea1h"
+}
